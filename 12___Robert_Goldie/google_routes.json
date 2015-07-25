@@ -1,0 +1,3586 @@
+[
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 50.6493055,
+          "lng": 3.9865518
+        },
+        "southwest": {
+          "lat": 50.2709278,
+          "lng": 3.8558488
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "51.0 km",
+            "value": 51004
+          },
+          "duration": {
+            "text": "2 hours 48 mins",
+            "value": 10053
+          },
+          "end_address": "16 Route d'Avesnes, 59600 Maubeuge, France",
+          "end_location": {
+            "lat": 50.2709278,
+            "lng": 3.9679603
+          },
+          "start_address": "Chemin des Skippes 1-3, 7823 Ath, Belgium",
+          "start_location": {
+            "lat": 50.6493055,
+            "lng": 3.8743148
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 624
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 114
+              },
+              "end_location": {
+                "lat": 50.6438551,
+                "lng": 3.8760454
+              },
+              "html_instructions": "Head <b>south</b> on <b>Chemin des Skippes</b> toward <b>Chemin de Chi\u00e8vres/N525</b>",
+              "polyline": {
+                "points": "emctHmusVp@KzAQz@K~HaA|IkAr@Uv@_@rAoAX]"
+              },
+              "start_location": {
+                "lat": 50.6493055,
+                "lng": 3.8743148
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 1020
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 193
+              },
+              "end_location": {
+                "lat": 50.6378,
+                "lng": 3.88673
+              },
+              "html_instructions": "Continue onto <b>Rue des Skippes</b>",
+              "polyline": {
+                "points": "ckbtHi`tVt@cAlBoCh@u@^m@Pc@Pi@HYNw@Fc@PkALo@Lm@Tu@N_@\\{@^w@`@y@Xk@HORc@JS^u@Ro@`G{LzEoJdBqCVU"
+              },
+              "start_location": {
+                "lat": 50.6438551,
+                "lng": 3.8760454
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "85 m",
+                "value": 85
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 50.6371243,
+                "lng": 3.8872823
+              },
+              "html_instructions": "Continue straight onto <b>Place de Gibecq</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "geatHacvVhAaA|@k@"
+              },
+              "start_location": {
+                "lat": 50.6378,
+                "lng": 3.88673
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.4 km",
+                "value": 1443
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 275
+              },
+              "end_location": {
+                "lat": 50.62781,
+                "lng": 3.87364
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Chemin du Bonla</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_aatHofvVJTFNfBzDbPv_@Vt@LV^l@Zb@d@h@\\XRN`@ZnAp@lCxAbDfBhBzBjA|Ar@`A|@xAX`@x@rAr@fAP^HXJ^FTPv@R~@Tn@Lb@\\x@"
+              },
+              "start_location": {
+                "lat": 50.6371243,
+                "lng": 3.8872823
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 603
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 144
+              },
+              "end_location": {
+                "lat": 50.6229278,
+                "lng": 3.8771872
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Chemin d'H\u00e9rimetz</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "yf_tHgqsVpDqBZMd@Md@ORIRMr@e@hAaAPMVU^a@zCmDf@e@^[`@W^Uf@U|A]XO"
+              },
+              "start_location": {
+                "lat": 50.62781,
+                "lng": 3.87364
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.4 km",
+                "value": 2416
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 383
+              },
+              "end_location": {
+                "lat": 50.6030534,
+                "lng": 3.8689536
+              },
+              "html_instructions": "Continue onto <b>Bois d'H\u00e9rim\u00e9</b>",
+              "polyline": {
+                "points": "ih~sHmgtVJGHGPUbByCh@aAT[RM^Cj@BJ?`BPjBLpEFzAN`C\\vDh@|H`AH@LD\\TDBFD~@pAHLhCfDf@p@l@`@xAr@nBdApAn@f@XXZXd@vAdC|@zA@BpAdBbAnA^^f@V~Ap@~Ah@tBb@dEl@~@JlBJVD`@Jh@Pb@TlBdAxAv@~BtA`BdA|BhAd@V"
+              },
+              "start_location": {
+                "lat": 50.6229278,
+                "lng": 3.8771872
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 879
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 190
+              },
+              "end_location": {
+                "lat": 50.5962016,
+                "lng": 3.8643602
+              },
+              "html_instructions": "Continue onto <b>Chemin de Gages</b>",
+              "polyline": {
+                "points": "alzsH}srVhDnApBj@f@Z\\n@|BfFbA~Bf@hA`@r@v@|@nDbCVFP?^EtA]`BOn@Br@HbBZNFh@^"
+              },
+              "start_location": {
+                "lat": 50.6030534,
+                "lng": 3.8689536
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 538
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 111
+              },
+              "end_location": {
+                "lat": 50.5930226,
+                "lng": 3.8588045
+              },
+              "html_instructions": "<b>Chemin de Gages</b> turns slightly <b>right</b> and becomes <b>Rue du Moulin</b>",
+              "polyline": {
+                "points": "gaysHgwqVDVpAtDdApCj@|AbD~IRh@f@z@b@n@VLTHd@PRRNNt@tA"
+              },
+              "start_location": {
+                "lat": 50.5962016,
+                "lng": 3.8643602
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 123
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 34
+              },
+              "end_location": {
+                "lat": 50.59204560000001,
+                "lng": 3.8596147
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue de la Sucrerie</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kmxsHotpVPUr@s@d@[jAs@HG"
+              },
+              "start_location": {
+                "lat": 50.5930226,
+                "lng": 3.8588045
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 271
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 47
+              },
+              "end_location": {
+                "lat": 50.58983620000001,
+                "lng": 3.8581191
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Chemin du Cadet</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "igxsHqypV\\NJBNFfAj@jDjB~At@XRDFJb@"
+              },
+              "start_location": {
+                "lat": 50.59204560000001,
+                "lng": 3.8596147
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 966
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 171
+              },
+              "end_location": {
+                "lat": 50.5815371,
+                "lng": 3.8557816
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Chemin du Cadet</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "oywsHgppVRAPHVD`CTpANzATvB^fCf@|BXfAFjABfBEpAEjDM|AEh@@VFZXdAfA^j@rBbD"
+              },
+              "start_location": {
+                "lat": 50.58983620000001,
+                "lng": 3.8581191
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.6 km",
+                "value": 2571
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 504
+              },
+              "end_location": {
+                "lat": 50.5668221,
+                "lng": 3.8838637
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>N56</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "sevsHsapVFML[~AqDpBcFvCaHpHeQpI_SlF}LhFyLrDuIf@kAVo@lGiOHQbC}FvCcHdC_GpIgSj@sAx@qBVk@d@eA"
+              },
+              "start_location": {
+                "lat": 50.5815371,
+                "lng": 3.8557816
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 392
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 81
+              },
+              "end_location": {
+                "lat": 50.56334,
+                "lng": 3.88332
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue de Cambron-Casteau</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "sissHcquV|@\\vA^lCj@l@HbDBpBCnAG"
+              },
+              "start_location": {
+                "lat": 50.5668221,
+                "lng": 3.8838637
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 1011
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 153
+              },
+              "end_location": {
+                "lat": 50.5592208,
+                "lng": 3.8956982
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Chemin de l'Epine</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{srsHwmuVBe@J]Vk@vByDj@qANw@fAyH`CmMpAwEjAeFv@{CxAiEnBoFB]?a@Q{C"
+              },
+              "start_location": {
+                "lat": 50.56334,
+                "lng": 3.88332
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "9.7 km",
+                "value": 9719
+              },
+              "duration": {
+                "text": "29 mins",
+                "value": 1761
+              },
+              "end_location": {
+                "lat": 50.4813279,
+                "lng": 3.9500617
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue du Calvaire/N56</b><div style=\"font-size:0.9em\">Continue to follow N56</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "czqsHc{wVPI|CwAh@Y^W^[Z_@HKBEBMBQ?QAWAECw@Ek@UuDK}AE}@A_@AQ?K@I@G@E@GBCDEDEREd@QpDyAJCHAH@F?LDLHNLHPHLFFDDD@F@N?h@CrDER?PCLCJEPKPK|AgAz@o@h@_@XQRMXOn@WDAjDqAzM_FTI`DkAbRaHLEfCaA~DyAtCgArBu@|HuC`FkBvGaCnDsApEcBdBm@HAl@Ut@Y`@URKlAq@p@_@nC_Br@_@LIbAk@p@_@b@Yf@Ub@Sp@QxAWh@K~AY`Di@`AQXGLEPGjAc@z@_@h@S|Ak@ZKpAg@TKv@YnBu@hDsAr@YVMf@Wx@i@JMDEnGqExUsPbFmDtByAdE}C`Ao@x@m@n@e@t@i@hAs@bAs@nBwAJIXSlCkBdDeC~AgAhKoHNKpByAzImGvB}APMrBwAbI{FNKtEeDXSZSj@c@`CeB`BmAv@i@nA{@xCyBROpEcDpA_Ar@c@v@k@l@c@XShE_DJG|C_CdFuDxAeAhDgClDgCtFaEl@a@BEBCvGyEfKsHlDiC|AgAdFwDbGmEnA_AdAy@ZY@AJKTWRS^g@R]Vc@PW@A\\k@JQ@APYV]b@_AZk@BEPYFKHMHMHIDGRQj@{@Xc@"
+              },
+              "start_location": {
+                "lat": 50.5592208,
+                "lng": 3.8956982
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.3 km",
+                "value": 2293
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 408
+              },
+              "end_location": {
+                "lat": 50.4633422,
+                "lng": 3.957450199999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue des Viaducs/N6</b><div style=\"font-size:0.9em\">Continue to follow N6</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "isbsH{nbWHTJVPXTXZTXRTLXNVHPDPBPBX@@?PCRCLCLGBCJMNGLILKNOLONULUJS\\q@^q@JULUjA}BXk@R]N[JULYFQHWH]@AF[F]FYJm@F_@D]PeBFm@@GD[FWDMDOr@mBLOJIPKlAOv@Ob@Kb@Kp@QTCtEuA@?ZIZEf@Gn@KLEDCFEDELQ`@i@TYJMHGLKLE~Ao@FCHCFCPEVIHCD?B?H?L?D@F@LDFBFBJDLHJJLHVTHJDFFFRPPDD@L?R?LAJCVERCNCNAf@Ef@GJA`@GNCL?d@E`@ILE\\GVCPEVERCdAOdAOtC]fBQXCrBSNAj@GRCLALAN?D?F?J?J?XBP@RBVDH@JBLBLB`Cp@"
+              },
+              "start_location": {
+                "lat": 50.4813279,
+                "lng": 3.9500617
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 254
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 46
+              },
+              "end_location": {
+                "lat": 50.4612708,
+                "lng": 3.9564713
+              },
+              "html_instructions": "Take the crosswalk",
+              "polyline": {
+                "points": "{b_sHa}cWGb@~Ad@jBh@xEnA"
+              },
+              "start_location": {
+                "lat": 50.4633422,
+                "lng": 3.957450199999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "63 m",
+                "value": 63
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 50.4611044,
+                "lng": 3.9557245
+              },
+              "html_instructions": "Slight <b>right</b> toward <b>Boulevard Winston Churchill</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "}u~rH}vcWHFDHPj@BJ@L@N@HAFAJAFCB?B"
+              },
+              "start_location": {
+                "lat": 50.4612708,
+                "lng": 3.9564713
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "20 m",
+                "value": 20
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 50.4609508,
+                "lng": 3.9556143
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Boulevard Winston Churchill</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{t~rHgrcWBF?@JBLF"
+              },
+              "start_location": {
+                "lat": 50.4611044,
+                "lng": 3.9557245
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 362
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 59
+              },
+              "end_location": {
+                "lat": 50.46044999999999,
+                "lng": 3.9507562
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Boulevard Winston Churchill</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}s~rHqqcWOfBSjBARAPAt@?^?N?b@@X@RD^D^Hn@h@|Cb@dCRdAH^F\\"
+              },
+              "start_location": {
+                "lat": 50.4609508,
+                "lng": 3.9556143
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 143
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 26
+              },
+              "end_location": {
+                "lat": 50.4598622,
+                "lng": 3.9489627
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Boulevard Winston Churchill</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "yp~rHgsbWHR`@nBLb@RdAF^J`@DTL`@"
+              },
+              "start_location": {
+                "lat": 50.46044999999999,
+                "lng": 3.9507562
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "94 m",
+                "value": 94
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 50.4597369,
+                "lng": 3.9477158
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Boulevard Winston Churchill</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "cm~rH_hbWFVJ\\BNDP@LBL?H@J?J?PARAJALG`@"
+              },
+              "start_location": {
+                "lat": 50.4598622,
+                "lng": 3.9489627
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "59 m",
+                "value": 59
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 50.4597657,
+                "lng": 3.9485107
+              },
+              "html_instructions": "Sharp <b>right</b> toward <b>Place Warocqu\u00e9</b>",
+              "maneuver": "turn-sharp-right",
+              "polyline": {
+                "points": "kl~rHg`bWAQC[G{@?G?I?E?G@C?C@C@A@E"
+              },
+              "start_location": {
+                "lat": 50.4597369,
+                "lng": 3.9477158
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 101
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 30
+              },
+              "end_location": {
+                "lat": 50.459221,
+                "lng": 3.9486998
+              },
+              "html_instructions": "Take the pedestrian overpass",
+              "polyline": {
+                "points": "ql~rHeebWLSLSFEDADAD?D@@@ABCFCDCJADA@?@?@@@@?HAFAFEJKJQ@ABADF"
+              },
+              "start_location": {
+                "lat": 50.4597657,
+                "lng": 3.9485107
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "6 m",
+                "value": 6
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 50.4591765,
+                "lng": 3.948644
+              },
+              "html_instructions": "Turn <b>right</b> at <b>Place Warocqu\u00e9</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ci~rHkfbWFJ"
+              },
+              "start_location": {
+                "lat": 50.459221,
+                "lng": 3.9486998
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "34 m",
+                "value": 34
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 50.4590288,
+                "lng": 3.9490653
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Place Warocqu\u00e9</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{h~rH_fbWX_ABU"
+              },
+              "start_location": {
+                "lat": 50.4591765,
+                "lng": 3.948644
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "88 m",
+                "value": 88
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 50.4584725,
+                "lng": 3.9498627
+              },
+              "html_instructions": "Continue onto <b>Place Warocqu\u00e9</b>",
+              "polyline": {
+                "points": "}g~rHuhbWJWd@}A\\W^O"
+              },
+              "start_location": {
+                "lat": 50.4590288,
+                "lng": 3.9490653
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 304
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 50
+              },
+              "end_location": {
+                "lat": 50.4567253,
+                "lng": 3.9466701
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue des Ki\u00e9vrois</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "md~rHsmbWXbBLh@N`@Nd@FJLTJNFHb@^ZTZ\\FJdBrEFRDFDHJP"
+              },
+              "start_location": {
+                "lat": 50.4584725,
+                "lng": 3.9498627
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 101
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 50.45598349999999,
+                "lng": 3.9458441
+              },
+              "html_instructions": "Continue onto <b>Rampe Borgnagache</b>",
+              "polyline": {
+                "points": "qy}rHuyaWT^JNRVTT^^h@f@"
+              },
+              "start_location": {
+                "lat": 50.4567253,
+                "lng": 3.9466701
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 230
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 64
+              },
+              "end_location": {
+                "lat": 50.45414299999999,
+                "lng": 3.9454363
+              },
+              "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Rue Claude de Bettignies</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "{t}rHotaW?@A@?@?@?@?@?@?B?B?@@B?@?@@B?@@@?@@@@@?@@@@@?@@?@@@?@@@?@?@?@?@?@?@A@?@?@A?A@A@?@C@A?A@A@C?A?A@A?C?A?C?A@CxEf@|AX"
+              },
+              "start_location": {
+                "lat": 50.45598349999999,
+                "lng": 3.9458441
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "67 m",
+                "value": 67
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 50.4535463,
+                "lng": 3.945297
+              },
+              "html_instructions": "Continue straight onto <b>Square Franklin Delano Roosevelt</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "ki}rH_raWD@bBVJ@"
+              },
+              "start_location": {
+                "lat": 50.45414299999999,
+                "lng": 3.9454363
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 23
+              },
+              "end_location": {
+                "lat": 50.45242469999999,
+                "lng": 3.9458187
+              },
+              "html_instructions": "Continue onto <b>Rue F\u00e9tis</b>",
+              "polyline": {
+                "points": "ue}rHcqaWh@OlBmAJCFCt@A"
+              },
+              "start_location": {
+                "lat": 50.4535463,
+                "lng": 3.945297
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 105
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 19
+              },
+              "end_location": {
+                "lat": 50.45174,
+                "lng": 3.946829999999999
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Rue des Cinq Visages</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "s~|rHktaWJOj@w@nAaC"
+              },
+              "start_location": {
+                "lat": 50.45242469999999,
+                "lng": 3.9458187
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "77 m",
+                "value": 77
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 10
+              },
+              "end_location": {
+                "lat": 50.45119,
+                "lng": 3.94619
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue des Soeurs Grises</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kz|rHuzaWL\\TXhAfA"
+              },
+              "start_location": {
+                "lat": 50.45174,
+                "lng": 3.946829999999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 235
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 49
+              },
+              "end_location": {
+                "lat": 50.4508543,
+                "lng": 3.9494309
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue des Capucins</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}v|rHuvaWJ_@J[B]LoCDoA@c@B_BBe@F}C@E"
+              },
+              "start_location": {
+                "lat": 50.45119,
+                "lng": 3.94619
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 110
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 13
+              },
+              "end_location": {
+                "lat": 50.44987,
+                "lng": 3.94949
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Grand'Rue</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yt|rH}jbWN@XAJAlCI"
+              },
+              "start_location": {
+                "lat": 50.4508543,
+                "lng": 3.9494309
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "83 m",
+                "value": 83
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 50.4499693,
+                "lng": 3.9506538
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue des Juifs</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "un|rHikbWSkD?{@"
+              },
+              "start_location": {
+                "lat": 50.44987,
+                "lng": 3.94949
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "71 m",
+                "value": 71
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 17
+              },
+              "end_location": {
+                "lat": 50.45001999999999,
+                "lng": 3.95165
+              },
+              "html_instructions": "Continue onto <b>Rue des Soeurs Noires</b>",
+              "polyline": {
+                "points": "io|rHqrbWIgE"
+              },
+              "start_location": {
+                "lat": 50.4499693,
+                "lng": 3.9506538
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 191
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 31
+              },
+              "end_location": {
+                "lat": 50.4504647,
+                "lng": 3.9542465
+              },
+              "html_instructions": "Continue onto <b>Rue des Chartriers</b>",
+              "polyline": {
+                "points": "so|rHyxbWCk@AOEg@Gu@Ky@Ga@Ii@Iw@Gk@Ic@Ca@E}@"
+              },
+              "start_location": {
+                "lat": 50.45001999999999,
+                "lng": 3.95165
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 874
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 201
+              },
+              "end_location": {
+                "lat": 50.4426509,
+                "lng": 3.9555065
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Avenue d'Hyon</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kr|rHaicW~COfD_@\\A^Eh@E`AMbCS|D[f@IlCYz@GlBO|@K~CYxBWl@E"
+              },
+              "start_location": {
+                "lat": 50.4504647,
+                "lng": 3.9542465
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 236
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 75
+              },
+              "end_location": {
+                "lat": 50.4405391,
+                "lng": 3.9558701
+              },
+              "html_instructions": "Continue onto <b>Avenue Lemiez</b>",
+              "polyline": {
+                "points": "qa{rH}pcWhAIxBQ|BUbBU"
+              },
+              "start_location": {
+                "lat": 50.4426509,
+                "lng": 3.9555065
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 352
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 57
+              },
+              "end_location": {
+                "lat": 50.439622,
+                "lng": 3.960618299999999
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue de Montreuil-sous-Bois</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ktzrHescWVkBn@wFHy@fAyLLs@BMJ["
+              },
+              "start_location": {
+                "lat": 50.4405391,
+                "lng": 3.9558701
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 174
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 50.4382084,
+                "lng": 3.9615462
+              },
+              "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Rue de la Cascade</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "snzrH{pdWFABABC@CBIZANCr@OJEPKTUh@i@dA{@"
+              },
+              "start_location": {
+                "lat": 50.439622,
+                "lng": 3.960618299999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 753
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 123
+              },
+              "end_location": {
+                "lat": 50.4318418,
+                "lng": 3.9590551
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue des Am\u00e9ricains</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yezrHuvdWXRFDHBPDHBH?N?l@M`AUj@Kd@IXGZGLA^CLAP@^DNBRDl@TXJz@VpAh@t@`@h@Xj@\\h@^~@t@j@`@NLd@\\n@f@l@d@p@f@nAp@"
+              },
+              "start_location": {
+                "lat": 50.4382084,
+                "lng": 3.9615462
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 267
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 46
+              },
+              "end_location": {
+                "lat": 50.4298789,
+                "lng": 3.9602458
+              },
+              "html_instructions": "Continue onto <b>Rue d'Hyon</b>",
+              "polyline": {
+                "points": "_~xrHcgdWj@RRBb@Hp@Df@DR@F?DAD?DAFEHIFIHSJa@HURm@HU^w@b@w@"
+              },
+              "start_location": {
+                "lat": 50.4318418,
+                "lng": 3.9590551
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 181
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 33
+              },
+              "end_location": {
+                "lat": 50.428695,
+                "lng": 3.9620026
+              },
+              "html_instructions": "Continue straight onto <b>Place de Mesvin</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "wqxrHqndWpDaGx@{A"
+              },
+              "start_location": {
+                "lat": 50.4298789,
+                "lng": 3.9602458
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 307
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 53
+              },
+              "end_location": {
+                "lat": 50.4266207,
+                "lng": 3.9591321
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue Brunehaut</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kjxrHoydWjDhFnAlBT`@^j@|@tAn@`A"
+              },
+              "start_location": {
+                "lat": 50.428695,
+                "lng": 3.9620026
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 485
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 121
+              },
+              "end_location": {
+                "lat": 50.42250199999999,
+                "lng": 3.9611812
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Voie Am\u00e9ricaine</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "k}wrHqgdWLQNGd@Uh@UvAi@`@Qd@UtAu@`@MbAOp@Kf@M`AKx@Qf@SVOXS|@}@"
+              },
+              "start_location": {
+                "lat": 50.4266207,
+                "lng": 3.9591321
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1075
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 231
+              },
+              "end_location": {
+                "lat": 50.413424,
+                "lng": 3.964812499999999
+              },
+              "html_instructions": "Slight <b>right</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "scwrHktdWVULKJEBAB?B?B?B@JDJJB@@BFBDB@?D@H?h@M|@OjBU|@GtBKxCSp@GVGXKh@_@lB{A~AoAb@_@\\S\\IVAd@BXFj@Dj@Bd@?p@eAJSJIJE^ITEr@OVGTIRMJG`@]RKn@c@XQn@m@TUJK"
+              },
+              "start_location": {
+                "lat": 50.42250199999999,
+                "lng": 3.9611812
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 371
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 54
+              },
+              "end_location": {
+                "lat": 50.4103956,
+                "lng": 3.9670115
+              },
+              "html_instructions": "Continue onto <b>Rue du Comte</b>",
+              "polyline": {
+                "points": "{jurHakeWBAHEHIVUbAq@p@]TM|@e@n@_@bAs@|@o@t@i@xB}A"
+              },
+              "start_location": {
+                "lat": 50.413424,
+                "lng": 3.964812499999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "13 m",
+                "value": 13
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 34
+              },
+              "end_location": {
+                "lat": 50.410455,
+                "lng": 3.9671701
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>Rue du Comte</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_xtrHyxeWK_@"
+              },
+              "start_location": {
+                "lat": 50.4103956,
+                "lng": 3.9670115
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.3 km",
+                "value": 1261
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 251
+              },
+              "end_location": {
+                "lat": 50.40228740000001,
+                "lng": 3.9793409
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>Rue du Comte</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kxtrHyyeWh@uAl@aB\\_Aj@eAb@w@p@iAh@aAZm@hA_CfA{Bt@_BhAcCnAsCp@wAtA{CnAoCXe@R]PQNQxA}A|AeBj@q@`ByBr@}@x@eAdAkALOpCaD"
+              },
+              "start_location": {
+                "lat": 50.410455,
+                "lng": 3.9671701
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1069
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 201
+              },
+              "end_location": {
+                "lat": 50.3947242,
+                "lng": 3.9865518
+              },
+              "html_instructions": "Continue onto <b>Rue de la Roche</b>",
+              "polyline": {
+                "points": "iesrH{ehWn@w@Z_@r@u@XUXQf@Yd@M\\I^Ep@Ef@A^@jAL|AL~AJR?D?HAFA\\MPKb@S`@WTUh@g@Z[T[Nc@Pi@Nk@DUHc@Li@d@aBXeARg@N[Rc@v@aBZu@Rq@^oANo@Po@N]HOJK\\[p@g@RQDEDGHO"
+              },
+              "start_location": {
+                "lat": 50.40228740000001,
+                "lng": 3.9793409
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 826
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 156
+              },
+              "end_location": {
+                "lat": 50.3890585,
+                "lng": 3.9790633
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue Macadamis\u00e9e</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_vqrH}riW|DrHh@bAdAtBh@t@bChDzAnBzAnB~DbFbCvCrCnD"
+              },
+              "start_location": {
+                "lat": 50.3947242,
+                "lng": 3.9865518
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "10 m",
+                "value": 10
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 19
+              },
+              "end_location": {
+                "lat": 50.38909659999999,
+                "lng": 3.9789295
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue de P\u00e2turages/N546</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "srprHcdhWGX"
+              },
+              "start_location": {
+                "lat": 50.3890585,
+                "lng": 3.9790633
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.4 km",
+                "value": 1410
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 297
+              },
+              "end_location": {
+                "lat": 50.3796538,
+                "lng": 3.9660811
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Chemin Sainte-Anne</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{rprHichWlAbC`AlBhAfC~AxCv@lAJNHHhAt@`Aj@FFRN|AnAlCtB~BxBZVl@n@v@fA~@vANXLRN`@Rj@^pAl@jBh@|ALd@N\\Ld@Vr@Xn@\\n@Vb@\\^\\b@bA~AlA`Bt@z@jBhCb@r@PZNT"
+              },
+              "start_location": {
+                "lat": 50.38909659999999,
+                "lng": 3.9789295
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "4.1 km",
+                "value": 4114
+              },
+              "duration": {
+                "text": "16 mins",
+                "value": 975
+              },
+              "end_location": {
+                "lat": 50.3430802,
+                "lng": 3.9707154
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Grand Route/N6</b><div style=\"font-size:0.9em\">Continue to follow N6</div><div style=\"font-size:0.9em\">Entering France</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ywnrH_seW\\AZ?j@CNCd@K`@KB?t@WRGjAm@n@Y`@U\\O~DiBjAe@XM\\M\\I^Gb@Et@If@AbABZ@`AB`BDrAFx@B~@Dv@DfCFj@B\\BfABvAB~A@rBHbBDr@BbCF|ADzBFh@B~ADrINzDHL@F?|EJbCFr@BjABlFJ~ELdA@~@@~@@n@Cz@Cx@Kv@KpAU`B[zAWhAMZCj@ErGS~GYz@IFAr@Kd@INCfCk@|Bm@hFsA`^yId@O"
+              },
+              "start_location": {
+                "lat": 50.3796538,
+                "lng": 3.9660811
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "4.6 km",
+                "value": 4587
+              },
+              "duration": {
+                "text": "14 mins",
+                "value": 862
+              },
+              "end_location": {
+                "lat": 50.3022511,
+                "lng": 3.9777861
+              },
+              "html_instructions": "Continue onto <b>Route de Mons/N2</b>",
+              "polyline": {
+                "points": "gsgrH_pfWLE^EbAELAVCbAStAYTEhAc@vAi@f@MHCVEnAWbDe@|AUhC]\\GfAOxASB?lAQp@ITCt@Kt@Mb@IbBUPCdAOzASxDi@RC`AQpBUJMxB[hGy@d@B|@MhBWHA\\GXO`@G`D_@XEVCFArAS|G_AfBWv@Kp@KxGaAlBYr@KF?JAVKpCc@|ASxB]~AU|Dk@j@IPCrEq@fC]dAOfAOJFjC_@XCJCB?HKZGzAS^CZCL?dDFpABbCHnEHr@?nAF`@Fv@JLBJB`ALB?z@RB?D@N@`AHB?`@@xDQ^CfBMv@GhAGtAMhAI`@Cr@GrCQpDYR?zAMfAGv@CPA"
+              },
+              "start_location": {
+                "lat": 50.3430802,
+                "lng": 3.9707154
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 400
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 68
+              },
+              "end_location": {
+                "lat": 50.29871259999999,
+                "lng": 3.9770313
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Route de Mons/N2</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "at_rHe|gWJIJ?Z@p@DJDFLjDd@|AThEl@tBZ"
+              },
+              "start_location": {
+                "lat": 50.3022511,
+                "lng": 3.9777861
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 331
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 50
+              },
+              "end_location": {
+                "lat": 50.2957832,
+                "lng": 3.9763483
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Route de Mons/N2</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "}}~qHmwgWJGd@DJBNDv@RDDD?~@L~@LrARlARrAPTDj@H"
+              },
+              "start_location": {
+                "lat": 50.29871259999999,
+                "lng": 3.9770313
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 851
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 164
+              },
+              "end_location": {
+                "lat": 50.2882601,
+                "lng": 3.974711799999999
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Route de Mons/N2</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "sk~qHesgWFGb@FJBVDl@JFFbC^fBVHCZDZDRDNJlAPRHRBPBtARl@JLGf@Hh@LdC^~Et@TBRBJEN@h@FZPF@b@B~@Fd@?V@"
+              },
+              "start_location": {
+                "lat": 50.2957832,
+                "lng": 3.9763483
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 250
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 47
+              },
+              "end_location": {
+                "lat": 50.28602550000001,
+                "lng": 3.9747994
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Route de Mons/N2</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "s||qH}hgWLKbAAL?d@N`AGl@CD?~BEf@AX?"
+              },
+              "start_location": {
+                "lat": 50.2882601,
+                "lng": 3.974711799999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 320
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 63
+              },
+              "end_location": {
+                "lat": 50.283183,
+                "lng": 3.9746951
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Route de Mons/N2</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "un|qHoigWFGp@A^AHHV?n@CT?`BCPH\\AZAn@?z@@TAD?XFf@N"
+              },
+              "start_location": {
+                "lat": 50.28602550000001,
+                "lng": 3.9747994
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 283
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 71
+              },
+              "end_location": {
+                "lat": 50.282587,
+                "lng": 3.9710242
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Avenue Jean Jaur\u00e8s/N2</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "{|{qH{hgW\\`@LPLRFRXnAF~ADtCDnADlD?`@?L?N"
+              },
+              "start_location": {
+                "lat": 50.283183,
+                "lng": 3.9746951
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 996
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 244
+              },
+              "end_location": {
+                "lat": 50.2772176,
+                "lng": 3.9686257
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Boulevard de l'Europe/Boulevard de l'\u00c9pinette/D105/D902</b><div style=\"font-size:0.9em\">Continue to follow Boulevard de l'Europe</div><div style=\"font-size:0.9em\">Go through 1 roundabout</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ey{qH{qfWPCLAB@J@LFJHLZRr@XbANp@ZlABHNn@Pt@T\\@D`@zADPXdABL^xAf@nB@HXdAT`ARr@BJRj@Th@LPRZHPDFDDPLPJNFPDFBB@LABDBDD@B?DCDCBCFEFAHAFAHAHC@?PIJCTO@ALK@AFGLQ\\i@Zq@DODODQDQDOFYViANi@Li@Lo@Lq@Jk@Ho@PuAH_@LS"
+              },
+              "start_location": {
+                "lat": 50.282587,
+                "lng": 3.9710242
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 402
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 97
+              },
+              "end_location": {
+                "lat": 50.2736578,
+                "lng": 3.9679989
+              },
+              "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Boulevard de l'Europe/D902</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "swzqH}bfWLEHDJDNHF?FCFAHAHCHAHCH?HA@?B?J@\\D^FdALVDF?F@~ARd@FrC^R@p@N`@L"
+              },
+              "start_location": {
+                "lat": 50.2772176,
+                "lng": 3.9686257
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "50 m",
+                "value": 50
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 50.27326499999999,
+                "lng": 3.967967
+              },
+              "html_instructions": "At the roundabout, take the <b>3rd</b> exit",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "kazqH__fW?@@??@?@@@?@@??@@??@@??@@?@?@?@?@A@??A@??A@??A@A?A?A?A@??A?AJBJ@L@J@"
+              },
+              "start_location": {
+                "lat": 50.2736578,
+                "lng": 3.9679989
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 266
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 46
+              },
+              "end_location": {
+                "lat": 50.2729364,
+                "lng": 3.9716621
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Porte de Paris/D902</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{~yqHy~eW?I@E?E@I?I@I@K@M?K@K@G?E@q@BWB[Dq@FgBHyAHkB@YBm@Be@?O@I?MEQ"
+              },
+              "start_location": {
+                "lat": 50.27326499999999,
+                "lng": 3.967967
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "60 m",
+                "value": 60
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 34
+              },
+              "end_location": {
+                "lat": 50.272742,
+                "lng": 3.9724354
+              },
+              "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Porte de Paris/D902</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "{|yqH{ufWDI@GAI`@_C"
+              },
+              "start_location": {
+                "lat": 50.2729364,
+                "lng": 3.9716621
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 155
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 61
+              },
+              "end_location": {
+                "lat": 50.2714565,
+                "lng": 3.9728415
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Porte de Paris/D2602</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "s{yqHwzfWHOFMFKFIJKJKHGJERGtAJNBNDD?LAPA"
+              },
+              "start_location": {
+                "lat": 50.272742,
+                "lng": 3.9724354
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 391
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 92
+              },
+              "end_location": {
+                "lat": 50.2709278,
+                "lng": 3.9679603
+              },
+              "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Route d'Avesnes/D2602</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "ssyqHg}fW@@?@?@@@?@@@?h@AZCb@G|@?TIxAEjAAj@?BAh@?BANEtAANCnAC`BB\\F\\JXNVd@`@x@x@DDHH"
+              },
+              "start_location": {
+                "lat": 50.2714565,
+                "lng": 3.9728415
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 50.5697951,
+                "lng": 3.8781679
+              },
+              "step_index": 11,
+              "step_interpolation": 0.7974813577847936
+            },
+            {
+              "location": {
+                "lat": 50.4808518,
+                "lng": 3.9494341
+              },
+              "step_index": 15,
+              "step_interpolation": 0.03061886616200687
+            },
+            {
+              "location": {
+                "lat": 50.4650589,
+                "lng": 3.9578346
+              },
+              "step_index": 15,
+              "step_interpolation": 0.9154630880905891
+            },
+            {
+              "location": {
+                "lat": 50.4591211,
+                "lng": 3.948781
+              },
+              "step_index": 25,
+              "step_interpolation": 0.3353026649693829
+            },
+            {
+              "location": {
+                "lat": 50.4531303,
+                "lng": 3.9455273
+              },
+              "step_index": 31,
+              "step_interpolation": 0.3737460064540926
+            },
+            {
+              "location": {
+                "lat": 50.4483419,
+                "lng": 3.9545544
+              },
+              "step_index": 39,
+              "step_interpolation": 0.2714877161389308
+            },
+            {
+              "location": {
+                "lat": 50.2829566,
+                "lng": 3.9744344
+              },
+              "step_index": 63,
+              "step_interpolation": 0.1108063997204547
+            },
+            {
+              "location": {
+                "lat": 50.2773096,
+                "lng": 3.9684547
+              },
+              "step_index": 64,
+              "step_interpolation": 0.983748567079229
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "emctHmusVhOkBpKaBjCoBfFgHlAuCv@wEpA_ExDkI|MkX|BgDfCmBRd@pT`h@~BtCrGvDbDfBhBzB~B~CdEvGn@nBhAjE\\x@pDqB`A[`CmArCgCdGgG~DyAjC_E~@}Ar@QdGb@lHVxHfArJ~AvAhBpDxEfCtAbGjDpDjG|ElF~DzAzHpAfFh@zSbLzGzBdAjAjGdNfF`Eh@FfGo@pElAhE|LbGtNfB|@dAdBdAiApBoAf@FnGbDxBhAPj@~Db@lLlBxJ^dKWxCtCzBtClBmEl[ku@rTyg@na@iaApA}Cd@eA|@\\dFjApEL`EKNcAjEoJhEgW|C}LdGsRQ}DnDaBdCmBTq@GgBo@eMnA}@pE}Ar@\\`@l@fA?fFMlCeBrCoBzF{Bbv@aY|k@aT|McHfDoBvEsArN{CnNoF|GsCzIoGzm@gc@`bA{r@~g@y^|fAuw@~T_Q|CuEhCqEb@m@~@mAXc@HT\\p@p@n@`Bz@dCBfBwAlEmIrB}EdAgHViBlA{CrHcBzJcCvBcCzDuAdALbBrAl@^t@?rDc@jEm@vUiC`CPhD|@Gb@~Ad@dIxBd@hABn@GZ\\Ti@~IfBdNzDpQ?nBINKwA?_@j@aAVAGRGV\\G\\a@LR\\uAp@uB|@g@fAtElCzCzDrI~A|BVXXQBU~H~@nBXvC}AtAYzByDb@v@hAfAJ_@Ny@XcJ\\gEd@ClCISkDIcGE{@a@yDe@qDI_BfIo@hD[vNsArVwB`Fk@fAcJbBuPZc@p@SfBw@nBeB`@Xn@LjDo@hEYxIhDtInG`EpBpCV|@q@r@{BnHmMpHdLlBvC\\YhEgB`FiBtEw@vCuBdAg@r@`@|QcBhK}GbCNpAB|@yAlA_@tBo@|EwDxFkDfFmDxB}AK_@vAwD~CgGvEkJtM_YtMwOxKsLjCw@dEFvEX`A]dCiBrAeCpC{JlE{LnCoCvIbPzNlRvGfIdA|CbH|MhLxI`GhGlBfDnEdNrIdMpDnFtBIrHuCbImD~Be@|DEpHThQd@zv@jBrQ\\dFQfIuAdLk@vKq@zHgB~f@cMhCQzKyC~S}CzK}AhTcDvM{AbBa@lVcDzp@wJdHw@r@SrDc@hKTtJXrC`@`Eb@`g@_DdBA|GnApJfAxAb@|LdBpJtAzEx@bDZvLlBdABpB^dIBnIWtGFfC?lBjAv@vEPtL?\\^Eh@TlCbKdDnL`CxHnBbBp@LnCoAdBaEnBuJv@oCl@TjAS~PbCDHN@DI@Ed@DLSJwAj@kMJqDj@aDb@o@t@a@zBTb@Di@xPBlFzBlCNN"
+      },
+      "summary": "N56",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 50.6493,
+        "lng": 3.87425,
+        "timestamp": "2015-07-24T23:01:07+00:00"
+      },
+      {
+        "lat": 50.56975,
+        "lng": 3.87811,
+        "timestamp": "2015-07-24T23:31:36+00:00"
+      },
+      {
+        "lat": 50.48085,
+        "lng": 3.94944,
+        "timestamp": "2015-07-25T00:00:29+00:00"
+      },
+      {
+        "lat": 50.46506,
+        "lng": 3.95785,
+        "timestamp": "2015-07-25T00:05:29+00:00"
+      },
+      {
+        "lat": 50.45909,
+        "lng": 3.94875,
+        "timestamp": "2015-07-25T00:10:29+00:00"
+      },
+      {
+        "lat": 50.4531,
+        "lng": 3.94542,
+        "timestamp": "2015-07-25T00:15:17+00:00"
+      },
+      {
+        "lat": 50.44834,
+        "lng": 3.95452,
+        "timestamp": "2015-07-25T00:20:17+00:00"
+      },
+      {
+        "lat": 50.283,
+        "lng": 3.97436,
+        "timestamp": "2015-07-25T01:15:19+00:00"
+      },
+      {
+        "lat": 50.27729,
+        "lng": 3.96844,
+        "timestamp": "2015-07-25T01:20:19+00:00"
+      },
+      {
+        "lat": 50.27094,
+        "lng": 3.96793,
+        "timestamp": "2015-07-25T01:25:19+00:00"
+      }
+    ]
+  },
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 50.2709278,
+          "lng": 3.9679603
+        },
+        "southwest": {
+          "lat": 50.0508238,
+          "lng": 3.9252452
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "26.8 km",
+            "value": 26849
+          },
+          "duration": {
+            "text": "1 hour 29 mins",
+            "value": 5365
+          },
+          "end_address": "23 Rue Maurice Hedon, 59219 \u00c9troeungt, France",
+          "end_location": {
+            "lat": 50.0508238,
+            "lng": 3.9273108
+          },
+          "start_address": "16 Route d'Avesnes, 59600 Maubeuge, France",
+          "start_location": {
+            "lat": 50.2709278,
+            "lng": 3.9679603
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "2.7 km",
+                "value": 2706
+              },
+              "duration": {
+                "text": "10 mins",
+                "value": 580
+              },
+              "end_location": {
+                "lat": 50.24882299999999,
+                "lng": 3.954703
+              },
+              "html_instructions": "Head <b>southwest</b> on <b>Route d'Avesnes/D2602</b> toward <b>Rue Romain Duchateau</b>",
+              "polyline": {
+                "points": "ipyqHw~eWJJRRXVVX|AjANHz@d@XArAl@~@`@~@b@B@z@`@\\NNHTRf@b@bA~@l@j@n@f@d@f@~AvAr@n@tAhAb@^^Z\\ZXVTVFJf@z@`@l@b@`@LJTLB@NLFB`An@fAdA\\ZFBD@HAD?^MBAj@Kz@Sr@MZEJA@@VD\\P`@Xj@x@bAbBn@bARXLJVLvA^j@NVHZHTFj@LVHh@PPF@?PDVFJBbBb@`Cp@l@PzA^FBz@Vb@Hv@RtAZ\\FNDl@LHBlCn@lAZXFbHdBh@N^JhAXf@LB?`EnARJRLRRRRNVNVFLHJDJHLDJNV@BJR@@JTJVBHBHDVFT"
+              },
+              "start_location": {
+                "lat": 50.2709278,
+                "lng": 3.9679603
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 334
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 91
+              },
+              "end_location": {
+                "lat": 50.2474005,
+                "lng": 3.9507992
+              },
+              "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>Rue de la Justice/D95</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "cfuqH{kcWCPAF?F?H?J@LBL@BBHBFBF@?FFDBD@N@HHLNJXDLPh@FVFXBHLb@Ld@FRDNFVFPFTZtAl@dDJv@"
+              },
+              "start_location": {
+                "lat": 50.24882299999999,
+                "lng": 3.954703
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "12.5 km",
+                "value": 12483
+              },
+              "duration": {
+                "text": "40 mins",
+                "value": 2391
+              },
+              "end_location": {
+                "lat": 50.1381322,
+                "lng": 3.946532299999999
+              },
+              "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>N2</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "g}tqHosbWEFABABCDAD?BAD?DAD?D?D@D?D@D?B@D@B@B@B@B@@BB@@@@@@B@@?@@B?@?@?@?@?@?BA@?@ABABABC@C@CBC@E@E@C?E@E?E?E?E?EAE?EAEZo@^a@zCaDzC}CtCmCbAy@d@Qn@Sp@Kt@ERCRCl@NhCn@lAZ^Jb@NB@HBVNxA`@jB`@PJjJxBRBRDjLvCJBlCp@n@PhBb@h@NnBf@hAV`AVVFz@T^RxErANDzEbAT@|A`@hAXrAZXHv@PxCt@`B`@B@h@LRDdBb@bAVLBt@H^@F?|@ErAIJ?~BKjAGdESn@EdBIb@Cr@EjCMh@CxAGbAGrDS|AGNAdAEdAGrAGxAIzAGrCOvBM`BIxBKNAvIa@HAH?t@EpH_@TApCQtAIjAGfFYbFY@LBF@FBDDBBBD@D@B?DADCBCDC@EBG@G@G?IjOs@dBI`AEr@EjBInESzCQnDOTApAEvCQRAjAEl@CvAGjAGnBI`@AVAh@CrESrAGZAJAH?LAxAG|AI`@Cb@ATC`BIVAhCQp@Ed@ClAG`BIfEQnBIF?fDOTArAGtGWLApCKZCZAxCMD?HALArDO|DS`CKnBKXArAGj@CrCMx@EnDOTAB?H@D?H?TATAt@ClACjAGVAp@ED?rBMXCf@CHANG`EQfCM`BITArBKH?`DOpESb@Cl@CrDMdCKDAB?N?hJc@~AIbBGd@Cx@EbAEjAGTA~FW|AGvCMTC|@Ef@AtCMt@Ed@CdAE|DSzFUPATAHBdACp@EV?TAR?L?L?@?H?F@D@LBB@H@FD`@PVNfB`AD?f@X|@h@`L~Gp@`@jAr@LJnBhAd@ZpEnCp@`@x@f@tDzBfAp@rCdBVNnBjA\\TZPh@XJBTJl@RB?d@JHBD?|@LhBVjHz@tI`A~BXL@zAPRB^Fh@JbAX"
+              },
+              "start_location": {
+                "lat": 50.2474005,
+                "lng": 3.9507992
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 1039
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 217
+              },
+              "end_location": {
+                "lat": 50.1308281,
+                "lng": 3.9386067
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Route de Maubeuge</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ir_qHyxaW?T@PFXFPl@~A`ApBN^FJDJDLn@rAZp@h@pA\\r@t@bBt@fBN\\Xp@Vh@Zv@LTJRLLLLLFLDNBH@D@ZDlBPfBRj@DXBLBNH`CfBfBnA`BrAxAxA`Ar@"
+              },
+              "start_location": {
+                "lat": 50.1381322,
+                "lng": 3.946532299999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "78 m",
+                "value": 78
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 50.1302057,
+                "lng": 3.9382303
+              },
+              "html_instructions": "Continue onto <b>Avenue Stroh</b>",
+              "polyline": {
+                "points": "ud~pHig`Wt@j@`@XTNB?BABC@C"
+              },
+              "start_location": {
+                "lat": 50.1308281,
+                "lng": 3.9386067
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "2.1 km",
+                "value": 2071
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 492
+              },
+              "end_location": {
+                "lat": 50.1194494,
+                "lng": 3.925793699999999
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Avenue Stroh/N2</b><div style=\"font-size:0.9em\">Continue to follow N2</div>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "y`~pH}d`WLBnA~@lClB~C|Bj@`@f@Xz@^lCdADBVJRHPFNDH@HAB?JENELGPKPINGJEH?H?F@@?HBHDLHHHFLFPDRDP@R?P?J?FAJADCTEJ?BO`@IREPGREREVGZCJENM\\IRc@z@_CrESZO`@M^GPAHCXA\\?h@DzEB~@@\\AZ@PD\\FV?@h@vCh@pCDHBFFHDDFDPLXTFDp@p@NLr@|@l@n@LL@BtAvANLFBFJXHf@H`@FTDNDPBnEf@LBH?V@ZAJCLCpBu@h@Sv@[l@U`@OLGRERCZAR@N@N@LDLBLFDHDBFDJDHBD@ND"
+              },
+              "start_location": {
+                "lat": 50.1302057,
+                "lng": 3.9382303
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 457
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 93
+              },
+              "end_location": {
+                "lat": 50.1187556,
+                "lng": 3.9321136
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Avenue de Verdun/Route de Landrecies/N2</b><div style=\"font-size:0.9em\">Continue to follow Route de Landrecies/N2</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "q}{pHew}VBYHgB@SLeC?OXsF@Q?MVcFH{A@YFcAJcBBi@@MB_@LuA"
+              },
+              "start_location": {
+                "lat": 50.1194494,
+                "lng": 3.925793699999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "5.8 km",
+                "value": 5759
+              },
+              "duration": {
+                "text": "18 mins",
+                "value": 1053
+              },
+              "end_location": {
+                "lat": 50.0670666,
+                "lng": 3.928732
+              },
+              "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Route d'Etroeungt/N2</b><div style=\"font-size:0.9em\">Continue to follow N2</div>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "gy{pHu~~V@?@?@@@?@?@A@?@??A@??A@?@A?A@??A@A?A?A@A?A?A?Ah@Ft@DN@lDLT?~@BpCJhBDlCFtEJZ?ZBzBFJ?pBHN?dCHl@BfBFnADhABj@BPB^?L@jAFv@?\\@nBDN@|ABr@Db@@J@jABd@@bABvBJx@FX@TCH@X@B?~CLb@@~BHZ@~@BdCHhDJN?L@fDJlCH`BFxENj@BtBF|ADX@lBFR@l@B~BFvAD^@pADp@BxAF\\@pAD~@BxBHP?tCJf@BfCHbBFF@H?T@N?tCHV@|AD`@BvADN?vBHdELn@@hADfAD\\@t@BzAD`CH^@`BF~AD|ADfADbBD^@F@H?dBDj@BvBHfEJnABJ@L?lCJ~@BjABbABx@BL?J?`@@n@BF?xADh@Bf@BF?h@BT?R@f@BfABH?f@Bp@Bj@Bh@@f@@R@XBV@L?j@@P?R@h@Bd@@b@BB?p@Bd@@@?v@@b@JZ?L?P@N@P@N@P@P@H?F@P?P@P@P?P@P?N?X?LARARARCTARCREl@K"
+              },
+              "start_location": {
+                "lat": 50.1187556,
+                "lng": 3.9321136
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.9 km",
+                "value": 1922
+              },
+              "duration": {
+                "text": "7 mins",
+                "value": 437
+              },
+              "end_location": {
+                "lat": 50.0508238,
+                "lng": 3.9273108
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Rue Paul Delplanche/D2602</b><div style=\"font-size:0.9em\">Continue to follow D2602</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "evqpHqi~V`CUP?lCQt@IJ?\\CTCdAI~@G|@I~@GjAI|@Gh@ENA`@EBATAT?VBXDJDl@R\\JZHXHNBNB\\JTFB@PHLDZLXJD@LHLFZNZLZJVLZLFBLBRHXJLHBBDFDV@@Jf@Lr@Z`BJl@N^BDBDHFHFLDP@N?PCPCPGPKTMTQPQVQRSTURSh@i@RSPQPOTORKVGREDAJAF?L?T?NBD?V?TBXBZBZ@ZBZ@X@l@FXBXB\\Bx@D\\BT@`@@^BR@D?X@Z@\\@\\@ZBZ@H@N?Z@^@Z@T@Z@V@T?L@F?D?L@\\AJ?PD"
+              },
+              "start_location": {
+                "lat": 50.0670666,
+                "lng": 3.928732
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 50.2564822,
+                "lng": 3.958713
+              },
+              "step_index": 0,
+              "step_interpolation": 0.6592047496953668
+            },
+            {
+              "location": {
+                "lat": 50.2470991,
+                "lng": 3.9506592
+              },
+              "step_index": 2,
+              "step_interpolation": 0.008623156143275955
+            },
+            {
+              "location": {
+                "lat": 50.2252028,
+                "lng": 3.9478525
+              },
+              "step_index": 2,
+              "step_interpolation": 0.2130135215024927
+            },
+            {
+              "location": {
+                "lat": 50.1131161,
+                "lng": 3.9318326
+              },
+              "step_index": 7,
+              "step_interpolation": 0.1097327595254918
+            },
+            {
+              "location": {
+                "lat": 50.097928,
+                "lng": 3.9307231
+              },
+              "step_index": 7,
+              "step_interpolation": 0.4033502006378837
+            },
+            {
+              "location": {
+                "lat": 50.0795593,
+                "lng": 3.929391
+              },
+              "step_index": 7,
+              "step_interpolation": 0.7583724412931515
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "ipyqHw~eWpApAlBtAz@d@XArCnAbAd@xAp@d@\\jBbB|ArAdC~BhCxBzBnB\\b@hAhBp@l@XNVP`An@fAdAd@^N?tA[nBa@f@GXF~@j@rDzFd@XbCn@tBh@tAb@xCt@rGfB~A`@lCn@dB^tU|FdEnAf@Xf@f@^n@`@r@b@z@\\x@H`@FTCPAN?TJh@PVJDN@HHLNJXVv@`@~Ab@`BNf@ZtAl@dDJv@EFCFGTAVBTFPHJHDH@TGJODU@WCWZo@^a@vH_IxEgEtAe@fBQf@GdHfBf@P`@RdEbAPJjJxBf@HvLzCpIvBrG~Az@T^RhFxAzEbAT@fDz@~HlBbDv@hDz@bALf@@pCO|Kg@`Q{@vTeAbZyA|b@_CDTDLHFJBHAHGLY@QpR}@pLi@xUgA|]{AxGa@fG[tZoAli@aCdEQL@z@CbCGbBIdEWp@ENG`EQhFWhCM`Lg@lJ_@dVeArUcAxWkAHBdAChAEdAAXBb@Lx@`@fB`AD?dBbArM`InFdDrNtIbJrFx@f@t@\\bA^h@JvDh@nWxCnBThARbAX?THj@t@pBpApCbAxBxCzGvB`Fh@lAX`@ZT\\HxCZrCXf@FpCpBfBnA`BrAxAxA`Ar@vAdAXNFE@CLB|ElDjE~CbBx@~D~A`@LR?l@S~@c@\\@RHVRN^Jd@@x@Mr@_@jA[zAa@lAgElIUp@Eb@AfAHzG?x@Fn@zAbIV`@z@n@`A~@`BlBtBvBFBFJ`ARxAV|Ej@`@@f@E~By@pDuA`@Mn@Eb@B\\FZJJLb@PNDBYJ{Bh@{Kb@gJX_FRuBB@FAJM@E?C~ALrGR~Qd@~DJtHVlHTp@BxAHtEHpCHn@BpBDzDNrAH^A`FP`JXdZ~@|c@tAbNd@dLZ|h@~A~Pf@~LZ`Rl@bFLdFPv@@b@Jh@?bAF|BHlA@hAIjBWvIq@nKu@xCUXCl@Bd@JjA^tAZhA^hA`@rAn@vAj@`@Lf@THJFX`AjFRd@LLVL`@@b@Gb@Sj@_@h@c@fBgBd@e@f@_@j@SXGv@AbAFlBL|BNnCPjBHxDNfEJh@Bh@APD"
+      },
+      "summary": "N2",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 50.27094,
+        "lng": 3.96793,
+        "timestamp": "2015-07-25T01:25:19+00:00"
+      },
+      {
+        "lat": 50.25649,
+        "lng": 3.95866,
+        "timestamp": "2015-07-25T01:30:21+00:00"
+      },
+      {
+        "lat": 50.24718,
+        "lng": 3.95059,
+        "timestamp": "2015-07-25T01:35:21+00:00"
+      },
+      {
+        "lat": 50.2252,
+        "lng": 3.94778,
+        "timestamp": "2015-07-25T01:41:52+00:00"
+      },
+      {
+        "lat": 50.11312,
+        "lng": 3.93169,
+        "timestamp": "2015-07-25T02:20:30+00:00"
+      },
+      {
+        "lat": 50.09793,
+        "lng": 3.93066,
+        "timestamp": "2015-07-25T02:25:30+00:00"
+      },
+      {
+        "lat": 50.07956,
+        "lng": 3.92937,
+        "timestamp": "2015-07-25T02:30:30+00:00"
+      },
+      {
+        "lat": 50.05083,
+        "lng": 3.92723,
+        "timestamp": "2015-07-25T02:40:31+00:00"
+      }
+    ]
+  },
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 50.0494237,
+          "lng": 4.0193004
+        },
+        "southwest": {
+          "lat": 49.6950248,
+          "lng": 3.8924159
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "44.9 km",
+            "value": 44883
+          },
+          "duration": {
+            "text": "2 hours 37 mins",
+            "value": 9426
+          },
+          "end_address": "7 Place de L H\u00f4tel de ville, 02340 Montcornet, France",
+          "end_location": {
+            "lat": 49.6950248,
+            "lng": 4.0152649
+          },
+          "start_address": "2 Route Nationale 2, 59219 \u00c9troeungt, France",
+          "start_location": {
+            "lat": 50.0494237,
+            "lng": 3.9273825
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "17.3 km",
+                "value": 17281
+              },
+              "duration": {
+                "text": "54 mins",
+                "value": 3225
+              },
+              "end_location": {
+                "lat": 49.8966512,
+                "lng": 3.9119606
+              },
+              "html_instructions": "Head <b>south</b> on <b>Route Nationale 2/N2</b> toward <b>Chemin de la Bruy\u00e8re</b><div style=\"font-size:0.9em\">Continue to follow N2</div><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+              "polyline": {
+                "points": "{gnpHca~VRDVBTDTBTBTBRBRBN?P@RD`@BP@V@n@@bCFd@@P@V@`BDN@dBFn@BlCHvBHR@nBFf@DP@RB\\B\\B\\F\\FTF@?XHb@LtA`@nA\\vA`@|@XlA^vGlBdBd@`APLBdBLH@pFZb@DnETXBnIf@xGb@vDTdPdAhAH\\BdBJX?j@D~Hj@nAH`F^`CRbJn@fBJrFb@lKt@xM`AnCVpDVvE^zL|@L@|E\\~@FP@jCPhAHh@DjAHdBNd@D\\Bl@D|@HNDp@JNBvAZzAXp@Fh@BhA?h@?b@?l@AXBT?dCFn@DhBLj@DxBPl@FnBNjBNH@F?VB^Bf@BbG`@pCPf@BrBPj@DdF`@pF`@lBL|K|@|@DlCVrLz@hG`@jAHF?T@zBN|@Dd@?J@~@FdBLv@D|AFh@Bj@Bj@Bd@@J@D@jBFX@TBT@V@XBn@B@?ZBN@P?R@RBv@DhCL|@Ff@BL@zBHhDN^BZ@zAFvCTdERnERrAFlDR~@DnAH@?R@H?h@Dr@Df@BH@H?VBd@@|CPr@Bj@DlAJVBd@F^F\\Lb@N~DnBjAn@|Ar@nAn@tCvArAj@tAt@vDhB`Bz@`DzAjFfCbEpB`Bv@LFPHzAp@FBbAd@`A\\dAX`FnArFrA|Ct@`B^dEbAjBd@DBnD|@rEfAhAXTFpBf@t@Pd@JfCn@|@TZHF@f@Jb@JpA\\d@Hp@RlAXr@NTFJBf@Lr@Pt@NVHb@JlAX`@Hh@Nz@Rl@NRDl@L^JPDp@NRFj@L\\Hb@Ln@Nr@P\\Hh@Nj@Nf@Ll@Pr@Pl@NjAZt@R~@VVFd@FR@`@@^CZGRIfAc@f@Uf@Wr@_@`@Sd@UJE~@e@TKb@Sn@]~@e@|@c@fAi@v@]ZOd@Up@]rAo@j@Yn@Yl@[^Od@U`@SRIHE|@e@v@]h@Y`@QhAk@NGPI^OZMr@Mn@Kl@KnASj@K@?PCl@Kb@GpASr@Ml@Kj@Iv@Mz@Ol@Ih@In@Kx@Ov@MhAO~@Qr@K`@GXGj@Ir@ONCh@IJAx@MhAQfASrAUhAQj@Kl@Kj@Kj@Kr@Kl@Il@Kp@Ij@Kp@Mt@MtASt@Md@In@Kh@Ih@KPCXE`AOb@G~@Sl@KdAQ`AOdAQ`@Gh@Kf@K`@Gf@Gn@MXCVGf@I`@Gp@Mh@Ij@KhASf@I`@I\\EPC^Ij@KZEl@Kf@Ih@In@Kl@K`@Gd@Id@In@K`@Gf@Id@Ih@IFAb@It@Kh@I^GPALCZEd@Cn@G`@CNAZCVCTAPAZCL?LCVAVCN?ZCR?^CRAXA^ALEHCVKNINIRMVMXONGNEZ?VDzBl@\\LVFVHNFRFx@TrA\\t@T\\Jh@LlA`@r@Pr@RRFRDXJ|@Xh@Nd@NRFf@Nn@Pj@Nv@Vp@Pl@N"
+              },
+              "start_location": {
+                "lat": 50.0494237,
+                "lng": 3.9273825
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 953
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 465
+              },
+              "end_location": {
+                "lat": 49.891696,
+                "lng": 3.901344
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue des Juifs</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ampoHw`{VBL@DDJNb@Ph@Rf@V~@Nn@Pp@TbABHPd@HNd@fAZh@Rd@^l@T`@h@x@PT^d@XXTVX`@Tj@Nd@RhAPnAJh@Lh@Nn@Ld@Rv@Rx@^~ATz@Rv@Nb@Hb@Pr@Lf@Nl@DPHZHRb@v@^d@Td@\\f@Vh@NV"
+              },
+              "start_location": {
+                "lat": 49.8966512,
+                "lng": 3.9119606
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1099
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 218
+              },
+              "end_location": {
+                "lat": 49.883009,
+                "lng": 3.907337499999999
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "cnooHk~xVDMFIb@W`@Sl@YlAm@d@Uv@a@fAi@t@a@dAm@vAw@bBaAz@_@`@GXAj@BX@b@Ef@IvA_@p@StA{@VUl@a@b@[t@W`@ERCf@Ed@GPEVKVQNQXc@Xi@d@eA^aAX{@Rq@Ju@?EFY"
+              },
+              "start_location": {
+                "lat": 49.891696,
+                "lng": 3.901344
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "3.4 km",
+                "value": 3353
+              },
+              "duration": {
+                "text": "10 mins",
+                "value": 578
+              },
+              "end_location": {
+                "lat": 49.8531708,
+                "lng": 3.902228
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue de la Chauss\u00e9e/N2</b><div style=\"font-size:0.9em\">Continue to follow N2</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ywmoH{czVhANl@HRBh@Dz@JxAP`ANlAN`BT|@Jj@H\\DlAPd@D|@LpAPv@HlAPf@F|@LtBVRBb@FbALd@BbBTpAPbBT|ARvAPD?nBVz@LlBV@?zARvC`@dBTl@H~@J~ARtC\\`CXjBTZDxBXlCZnC\\rEl@lDd@rBVzBXhC\\bBVtAPjBTxAR@@\\Dv@L|@L^Dv@JpBXhAL`ANt@J^FVDd@DLBD@TDb@Fb@D`@@TA`@CPEPEn@S`@M^Kn@S\\Kd@MLEnAc@"
+              },
+              "start_location": {
+                "lat": 49.883009,
+                "lng": 3.907337499999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.0 km",
+                "value": 988
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 158
+              },
+              "end_location": {
+                "lat": 49.847579,
+                "lng": 3.8924159
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue des Lavandi\u00e8res</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "i}goH}cyVHFHHP^Rf@Nd@^nARn@RbARrAHf@NnABLDZLdBJp@L~@BVDNLp@Tl@R^d@j@V^RXPd@Rh@Td@\\t@Xj@f@bARXXNHBH@H?JAH?J?hAJ`@ZHFf@p@DFp@|AJRZv@`@bA^z@`@l@n@x@z@bA"
+              },
+              "start_location": {
+                "lat": 49.8531708,
+                "lng": 3.902228
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.3 km",
+                "value": 1326
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 346
+              },
+              "end_location": {
+                "lat": 49.83846399999999,
+                "lng": 3.902379
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue du Vieux Ch\u00e2teau</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kzfoHsfwVr@}ArBmE^{@DGDGFGJGHCHAHAF@`@Bf@@TCR?Z?r@Bl@?j@Bh@@j@Ab@E\\E`@Kh@SZMf@e@d@o@R[f@u@Ti@Re@Ri@Rm@Pm@@ENa@FML]Ne@Tq@Vu@Xu@Vq@FOPi@@G@AVs@Vu@Tm@Vq@Xm@X_@\\WlBw@XQ\\SVQNMf@g@p@{@^q@`@{@Vu@BIX}@"
+              },
+              "start_location": {
+                "lat": 49.847579,
+                "lng": 3.8924159
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 460
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 60
+              },
+              "end_location": {
+                "lat": 49.8343885,
+                "lng": 3.901485999999999
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Rue du Verbinum</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kaeoH{dyVt@\\z@\\z@ZdBXv@FrJ~@f@@PAr@G"
+              },
+              "start_location": {
+                "lat": 49.83846399999999,
+                "lng": 3.902379
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "18 m",
+                "value": 18
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 3
+              },
+              "end_location": {
+                "lat": 49.8344458,
+                "lng": 3.901719
+              },
+              "html_instructions": "Turn <b>left</b> at <b>Chemin Rural dit du Verbinum</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}gdoHi_yVCSGY"
+              },
+              "start_location": {
+                "lat": 49.8343885,
+                "lng": 3.901485999999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 205
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 27
+              },
+              "end_location": {
+                "lat": 49.8326265,
+                "lng": 3.901754399999999
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue du Verbinum</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ihdoHw`yVF?BA@?fDV\\DhA?PAXE`@Y"
+              },
+              "start_location": {
+                "lat": 49.8344458,
+                "lng": 3.901719
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "80 m",
+                "value": 80
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 49.8320132,
+                "lng": 3.9023294
+              },
+              "html_instructions": "Continue onto <b>Rue Charles Graux</b>",
+              "polyline": {
+                "points": "}|coH}`yVv@s@VYj@e@"
+              },
+              "start_location": {
+                "lat": 49.8326265,
+                "lng": 3.901754399999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 108
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 49.831102,
+                "lng": 3.902
+              },
+              "html_instructions": "Continue onto <b>Place de la Libert\u00e9</b>",
+              "polyline": {
+                "points": "aycoHqdyVXO^BPDz@l@RHXN"
+              },
+              "start_location": {
+                "lat": 49.8320132,
+                "lng": 3.9023294
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "22 m",
+                "value": 22
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 6
+              },
+              "end_location": {
+                "lat": 49.831081,
+                "lng": 3.902303
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue des Lisses</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kscoHobyV@[@_@"
+              },
+              "start_location": {
+                "lat": 49.831102,
+                "lng": 3.902
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 339
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 161
+              },
+              "end_location": {
+                "lat": 49.828314,
+                "lng": 3.903941
+              },
+              "html_instructions": "Turn <b>right</b> toward <b>Rue Pierre Mend\u00e8s France/D375</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gscoHkdyVRQRM^O|AWhAW^Id@Q@APGTI`C{@Ze@Rk@DG@E@IDGFI"
+              },
+              "start_location": {
+                "lat": 49.831081,
+                "lng": 3.902303
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "60 m",
+                "value": 60
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 49.8280264,
+                "lng": 3.9032366
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue Pierre Mend\u00e8s France/D375</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}acoHsnyVJt@Tn@Td@"
+              },
+              "start_location": {
+                "lat": 49.828314,
+                "lng": 3.903941
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "18.5 km",
+                "value": 18539
+              },
+              "duration": {
+                "text": "1 hour 8 mins",
+                "value": 4056
+              },
+              "end_location": {
+                "lat": 49.6953478,
+                "lng": 4.0147415
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Route de Montcornet/D966</b><div style=\"font-size:0.9em\">Continue to follow D966</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "e`coHgjyVf@mBFUPu@Ne@P]NWNMRQVOZMx@M|AUhEs@bBWlBm@pBwAnAqARSRUBCTUr@y@bA_Ah@[f@Ol@Ib@Ap@D\\FRHr@X`@\\fAjAvBpBd@TNDRBPDT@XBNARCVETGr@[`@Wd@g@b@k@Ve@P_@Zu@Pa@Xk@Zq@f@iARg@Zm@P_@j@mA^s@^k@RWZc@b@m@f@s@lAaBn@y@X_@h@u@f@o@T[T_@LOVWR[PUT[`@k@^g@b@m@`@k@f@q@LSV]\\e@V]RY`@k@RY~EaHxAmBTUTY\\YZWJIJIROTOdBeAb@YtA{@pLiHpOmJnCcBVObBeAfF}Cd@_@TQRS^c@RURWZe@\\o@\\y@Xu@N_@Rm@Le@ZmANq@Lk@Je@Nm@L_@P]LWJWLQRWJMPOROLIPINIVKXI^Gr@Mz@Mn@KfAQjASdAQp@KFAREn@Ij@IJA`@Ir@Mb@G|Eu@`AOb@IZITKPGl@]hHkF|AcAlAo@LGb@UXOb@YXULMRS|A}ADEFG~@aAz@}@HIHI|AaBHIJKVWJMPUNWZk@R_@fC{EVc@hC}EjDoG`@s@^s@NSJORYHIPOVSPMRKTERC\\CX@p@HfATfLhDpJlC|@VZDr@JZ@^AVCd@KZK`@QTK\\S~@q@`BmAROb@]t@i@^[DCtAgA|AmATSTSPQn@o@d@g@lDgE`@i@Xc@NWf@_ATg@tAkDdDcIj@uAN_@b@eArCaHp@cBfAoCv@gBVq@v@mBP_@Re@LWNUJKJKNKVOVMj@Mj@Kp@Md@SXQHILKLSLULUt@_BRc@rA{CHQHMJONWLOPSHKLKd@c@JK\\WdA}@NMFINQNSV[HOFKN[HQLWZ}@pIaWhDeKp@kBjGcRhC{HNi@Nc@N_@`@_Av@gBpGeOh@gAN]J[Rq@Jc@RcA\\kBbCuOLo@DWXkAFSRc@Te@^o@|DgGhAeBn@_Ab@k@V]TWVWf@c@b@_@dCiBl@e@`@YJGLINGJELEXIVGRCl@I|[kBfGa@zAIx@Gd@E^CNCLETG^O`@UZYXWFIJORYLWP]j@yA~@iCdC{GLc@Nu@Bu@?m@?WAQ?KIm@Iw@Ge@ASCU?UAK?S@W@QBM@M@KBKBMBMFODKDKNUDIFGJMHG`@Ud@WLI`@Sl@]^[PUVa@HQL]H_@BUBSBSB[?]@[AM?QC[Ca@G{@Cc@CYCw@@m@@U@WDm@Fq@JoAVoCHq@BYHa@Je@FYBMFOJWHQFKHOJSZc@`DwET]Xk@DIHW|AsETo@Xk@Ta@rBwChBeCvEsGfKuNXc@d@u@LU~KyQJSBARYVY\\YZYd@]l@e@v@i@f@a@b@]x@m@f@]r@k@|@o@l@g@f@_@|AiA\\Wp@g@dCiB|DoCb@Yh@_@h@[j@Wd@QZKXEd@It@KnH{@ZKTIRIROTQVUnB{BZ]vAaBpB}B`CoC`@c@V[b@g@NMPOLMPILELEPCLAT?`@Dr@Px@\\p@TbA`@v@\\t@^`@TVNB@FDTJLJf@Zt@d@fAn@bAl@bAl@rAt@bCvAlDtBbAj@~@d@rKbEt@Xh@Nn@Nj@Hd@B^?h@A~BQdBMf@Ed@K~LaAx@Gp@GjAIzAM`@CHAD?v@Gn@E|@Il@CPCH?FAFAH?^GZERCXKh@QBAf@OJC^Mb@KXGRCh@?P?\\?f@@r@C\\DNTFNFZPzA"
+              },
+              "start_location": {
+                "lat": 49.8280264,
+                "lng": 3.9032366
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "52 m",
+                "value": 52
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 32
+              },
+              "end_location": {
+                "lat": 49.6950248,
+                "lng": 4.0152649
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Place de L H\u00f4tel de ville/D946</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}binHccoWNSP_@Zq@BA"
+              },
+              "start_location": {
+                "lat": 49.6953478,
+                "lng": 4.0147415
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 50.0346983,
+                "lng": 3.9244638
+              },
+              "step_index": 0,
+              "step_interpolation": 0.09585615051100725
+            },
+            {
+              "location": {
+                "lat": 49.8092303,
+                "lng": 3.9182111
+              },
+              "step_index": 14,
+              "step_interpolation": 0.1369395492965657
+            },
+            {
+              "location": {
+                "lat": 49.7654054,
+                "lng": 3.9526398
+              },
+              "step_index": 14,
+              "step_interpolation": 0.449432707437998
+            },
+            {
+              "location": {
+                "lat": 49.7521037,
+                "lng": 3.9797565
+              },
+              "step_index": 14,
+              "step_interpolation": 0.5830038103186506
+            },
+            {
+              "location": {
+                "lat": 49.739486,
+                "lng": 3.9888489
+              },
+              "step_index": 14,
+              "step_interpolation": 0.6764206247874319
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "{gnpHca~VjDb@vAJ|ELdNb@dKf@vHnBzNhEfDv@rBPnNx@zXdBhe@zCz_AbHng@pDtMbAhDp@lC`@rBBtC@tHZxMdAj[xBru@rF~VnAzR`Ahm@xC`FVjIf@zB`@|WlMl^dQhFxBxTrF|ZtHpY`HjSzEvUbGx@H`AA~CkAhHmDzVwLvHsDz@]bBYjDk@zJ}A~LoBdWeElm@wJvd@oHrKu@`BGl@G`@OjAo@h@Wj@EhEhAtBn@zK|CfHtBbEhAZbAlA`E|@dD~AfDpB~ChBxBd@pAd@xCv@hD|AlGlBvHbBvCt@pANVDMj@a@nAm@rFoCvHiE|Ag@dA@|@C~Bi@fCoAdAw@xAs@t@IlAMh@Qf@c@r@mArBuFJ{@FYhAN`ALdBPjIfAtEl@vOnBfc@tFfz@jKx]zEnAP~BLtBc@nCy@r@SnAc@HFZh@b@lAr@~Bf@vCb@`Dj@nFR`Ah@lA|@jAd@~@`BpDz@|Ab@Rh@?tAJj@b@l@x@|@pB|@zB`AhBjB|BfDkHr@sAh@OxFFtADnAG~@QdAa@lAuAz@qApAgDvBoG~BuGl@_Br@mAjCoAv@e@f@_@xAcB|AmDX}@t@\\vBx@|C`@zK`AdAIKm@tDTfBDj@G|CmCXO^BlAr@l@XB{@f@_@|Bg@pCu@f@Q`C{@Ze@Xs@BOLQ`@dBTd@f@mBXkA`AiBj@a@tA[fHiApEeApBwAnAqAf@i@pCsCpAk@pAKnALfAb@hBhB|CfCjAPtAGhAc@fA_Az@qAl@uAnBiElBcEnB{ChE}FpEeGdFeHpMqQdBaB`As@nl@m^lG}Dh@e@bBwBdB_ElAsEv@_Dx@_BdAeAfAi@rLqBjGaAfJwApB{@fKoHzAw@zBuArGwGbEuEfQa\\x@gAnA}@`BKxB^xWvHxA\\nALv@E`AWtCcBnEeDfI_HnG}HbDkHjQ}b@tBeFt@eAf@[bA[|AY~@e@r@_AjDuHfBcCtCeCv@}@x@sAdKiZpRqk@pAmDbKsU~@uDtDiU`@_Bh@iAvI}MhByB~FsEjAs@jA]ff@{CzE[rAa@~AqA~@_B~FcPRkB?eAUcCMeBL}BTw@b@s@zE{C`AgBT}ABcBOkCIcDPmCp@kH`@oBd@eArE_H~@kBrBcGn@mA|Xg`@lNiUz@iAlCwBdKyHfR}MtAs@`A]dLwAxAo@xDaEjMuNz@c@^Ev@DbFfBfDbBxG~DhMpHbCpAhM|ExA^pALnHa@lAQxNiAzFc@~Fa@x@KrBg@vAc@|@S|@CjCA\\DNTNj@PzANSl@qABA"
+      },
+      "summary": "N2 and D966",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 50.04939,
+        "lng": 3.92768,
+        "timestamp": "2015-07-25T04:50:05+00:00"
+      },
+      {
+        "lat": 50.03469,
+        "lng": 3.92465,
+        "timestamp": "2015-07-25T05:00:03+00:00"
+      },
+      {
+        "lat": 49.80923,
+        "lng": 3.91821,
+        "timestamp": "2015-07-25T06:15:10+00:00"
+      },
+      {
+        "lat": 49.7654,
+        "lng": 3.95263,
+        "timestamp": "2015-07-25T06:30:07+00:00"
+      },
+      {
+        "lat": 49.7521,
+        "lng": 3.97975,
+        "timestamp": "2015-07-25T06:35:07+00:00"
+      },
+      {
+        "lat": 49.73948,
+        "lng": 3.98885,
+        "timestamp": "2015-07-25T06:40:07+00:00"
+      },
+      {
+        "lat": 49.69509,
+        "lng": 4.01535,
+        "timestamp": "2015-07-25T06:55:08+00:00"
+      }
+    ]
+  },
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 49.6952808,
+          "lng": 4.0565747
+        },
+        "southwest": {
+          "lat": 49.3369194,
+          "lng": 4.0105708
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "41.7 km",
+            "value": 41749
+          },
+          "duration": {
+            "text": "2 hours 13 mins",
+            "value": 7979
+          },
+          "end_address": "D966, 51220 Brimont, France",
+          "end_location": {
+            "lat": 49.3369194,
+            "lng": 4.033172
+          },
+          "start_address": "56 Place de L H\u00f4tel de ville, 02340 Montcornet, France",
+          "start_location": {
+            "lat": 49.6951894,
+            "lng": 4.0143366
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "7 m",
+                "value": 7
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 2
+              },
+              "end_location": {
+                "lat": 49.6952179,
+                "lng": 4.0144209
+              },
+              "html_instructions": "Head <b>northeast</b> toward <b>Place de L H\u00f4tel de ville</b>",
+              "polyline": {
+                "points": "}ainHs`oWEO"
+              },
+              "start_location": {
+                "lat": 49.6951894,
+                "lng": 4.0143366
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "8 m",
+                "value": 8
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 49.6952808,
+                "lng": 4.0143788
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Place de L H\u00f4tel de ville</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "cbinHcaoWKF"
+              },
+              "start_location": {
+                "lat": 49.6952179,
+                "lng": 4.0144209
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 273
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 77
+              },
+              "end_location": {
+                "lat": 49.694488,
+                "lng": 4.0107883
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Place de L H\u00f4tel de ville/D946</b><div style=\"font-size:0.9em\">Continue to follow D946</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "obinH{`oWFf@Fj@TnBBLBNBHb@hDf@pDNjADP?B@FFZ"
+              },
+              "start_location": {
+                "lat": 49.6952808,
+                "lng": 4.0143788
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "30.1 km",
+                "value": 30128
+              },
+              "duration": {
+                "text": "1 hour 35 mins",
+                "value": 5683
+              },
+              "end_location": {
+                "lat": 49.4329708,
+                "lng": 4.0308025
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Route de Reims/D966</b><div style=\"font-size:0.9em\">Continue to follow D966</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "q}hnHmjnWH?VNLFTLRDT?f@AjBK\\E`M{@j@EpAKlAI^Cp@GdAInAIlBO`BKbAIvAK|@Gr@GdBMxAM~@G|AM|Hi@l@EvAI`BKzBOfCS|AMD?b@E~AMXAfBOdBKtDYRApWoBtFa@dDOFATChGg@nDYnFq@|L{Afb@iFhC[PATETAVEVCVCPERCXEXCNCPCHCB?HELEPGJGHEXUTQZ[FENMJILMLKLKNMHGNKv@m@`As@z@m@v@g@|@o@~@q@f@]^WFEl@a@\\UTQXQVO^Qf@OTGh@Kd@I`@I`@If@K^Il@Mf@Mf@O\\K\\KTIXKZI^I`@Eh@Ed@Ep@Gf@CZCt@Ix@Gz@Iz@Gp@Ex@Gn@G|@Gp@Gp@Gf@CXC`@ER?FAF?`@En@CJATC\\ANAp@A^@^@P?`@B`@@b@Dd@Bl@Bj@Df@Bf@Bn@Bf@Dh@@l@Bb@B`@B^B\\BZBJBd@Dr@L`@Fl@JTBNDf@HPBH@VBB?\\Bb@D\\Bt@Dp@D^@L?h@BJ?d@@`@@^@N?b@@d@B\\?p@B~@?n@@r@Ar@?b@Av@A\\A\\AZEb@E\\G`@IZITITIhCcAbA_@|@]j@Q|@W`@KZKrB_@v@OPENC^EbBWTCh@EnAO~BQpAEd@Gx@EbAGlAIn@GbBMVCj@Gf@E^E`@I\\K\\Q`@SROh@g@jAkAtGaGd@c@h@i@nEeE@AbAaAf@e@f@g@z@w@z@y@x@u@TSd@e@pAkADELOlBeBpAmAhDeDhEaEvn@ql@dE_EfJuIxJmJxJmJlDoDlAkAj@g@PQRQb@_@d@_@^Yp@g@t@i@h@_@j@_@`@]b@[j@i@r@q@r@u@bBgBx@{@jC}BvBkBROPOVSNKZSRKRINGNGRIXIjCy@x@W`@KPGVEPELCLC~B_@vDm@z@OXEVEPCb@El@En@Cr@E`@Ar@Cd@EzAK`@CXCXEXCZGTELE^MXONILILKFGHIHIHKJKNSTa@Tc@Xm@`@}@Tk@JSNYP]LQLSPUJMRUPQNQPOXUXQRKVITITCPCP?RAP@P?N@ZBRBL@NBPBZH\\HxAZvAZbATlAVdB^tB`@lB`@jB\\fATjAZz@T`AVdATNDTFTBXDd@FP@L@v@BrDDp@@\\?l@AZAJALAJAPCXGp@QvAa@p@Ub@KXI^IJCJAPERAPA^A^?l@?|C?h@?x@@F@F?J@F@D@H@HBHBJDDBD@HFJDp@b@VPHDLFVHPDb@Dj@F`@FtCp@JBH@D@B?B?B?PCJGd@SLGJELABAF?H?L@F@RBLBvATn@JbBVzATzB`@F@F@vCd@`C^xF~@tCd@PBj@HV?dBBl@@L?N@J@P@N@\\F^Fx@NjCb@vCh@xAXjDl@rB\\vCd@rB`@x@L~A\\r@Ll@LbAPz@Nv@LtATjDl@x@PrEx@~Cj@~KlB~HpArEz@xAVdARtAXjEx@^F`@Hb@HTDXB~JlAhBTnBTxARrANbALbBRrAPzAPjANv@JhANdALbBPfIdA`Dd@hEj@PDpAR^F|En@nAR`ALr@Jt@LXHNDXJl@TTF\\HLDNBXDPDP@TDT@XBP@P@P@`B@v@BR?V@P@PBd@FhBXhAN|B^|Cd@dFr@rEl@tC`@dBRxEl@`CZvC`@lFp@fCZrBT`ALjANbALfALbALf@Hb@Ft@JTB\\D^D~@L|@Jx@FZBdAF`@@^Bx@FTBbANlAPr@J`ANt@Jt@LPBVDh@DR@h@@^@n@A|AC`DKvBGxAEjFO`FM|FQ|AEdBEj@AVAfOc@nGUpCI~DOtDKrCIvK]jBI\\Af@ClAEpAGnAElAGfACbACp@?zE?v@?fTAdBAbC?xB?vJAbJAhE@|BAvAAf@?bIApADjADr@DhBJfDNrBJdI^nFZdCNr@B`H\\tCPhNp@pJf@n@Bl@BxCNrH^tLl@vMr@^BpEPbJ`@jOt@tEP`@BPBH@HBHDNFFBr@j@l@d@`BlA~B`B@@x@j@vJdHhH`F|JhHNLJFXLDBXNVJVJ^L`@Ld@N\\NZRTN^Z^Zf@d@~C`CPLVRDF@?JDLB"
+              },
+              "start_location": {
+                "lat": 49.694488,
+                "lng": 4.0107883
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "11.3 km",
+                "value": 11333
+              },
+              "duration": {
+                "text": "37 mins",
+                "value": 2216
+              },
+              "end_location": {
+                "lat": 49.3369194,
+                "lng": 4.033172
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Place du Colonel Driant/D966</b><div style=\"font-size:0.9em\">Continue to follow D966</div>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "a{ulHogrWFAD?DAFCBEBCFKFKBKBKBI@ULu@Lu@BUHg@L{@RgALe@XaA\\eAPk@La@XcALa@b@uAH]J[Tu@Ty@Lc@\\gAFWFUr@cEJm@BYDWHm@Hq@BWBW^oDD]D]@UBSD_@TyBNwALcA\\qBVyAVsAJi@BKDKDIDIBEDGLIFEDADAFAF?V@^BvBLlBLxAHrEX`AFlAFnh@|CtId@L@bLp@tIh@xDT|_@zBdDRj\\jBxLt@`Ib@`P`AxMv@nYfBjG^tAFt@BhBLvAHt@FrBL~BJf@DfAFVB`Ln@LDtALb@DP@v@Dt@BfADP?lLp@v@BtDLpA@|@Bt@BhADhBJlG^|BLlAFd@D|DTpEXfLn@`Ln@hKl@t@DlDRlEVrIf@zAFnDRlG\\lBLxBL`BHxAHbAFx@D~EXzVrAJFjAH\\BP@H@JBLDNJ@D@B@DBB@BB@@BB@B@@@B?B?B?B?BADA@A@A@C@A@C@A@C?CJEFAFCFAB?D?J@f@@^BR@NCd@Bf@Dx@Hv@Ff@Ft@DvBLP@vDRhETJFfAFpEV`@@b@Bv@BP@h@BlCLhDPnAFLAtAJl@Fv@Fl@DXB"
+              },
+              "start_location": {
+                "lat": 49.4329708,
+                "lng": 4.0308025
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 49.5779216,
+                "lng": 4.054659099999999
+              },
+              "step_index": 3,
+              "step_interpolation": 0.4568951020462412
+            },
+            {
+              "location": {
+                "lat": 49.55713979999999,
+                "lng": 4.0519004
+              },
+              "step_index": 3,
+              "step_interpolation": 0.5347421796105553
+            },
+            {
+              "location": {
+                "lat": 49.5439731,
+                "lng": 4.0483482
+              },
+              "step_index": 3,
+              "step_interpolation": 0.5840772545879973
+            },
+            {
+              "location": {
+                "lat": 49.45830669999999,
+                "lng": 4.040272900000001
+              },
+              "step_index": 3,
+              "step_interpolation": 0.901889289870898
+            },
+            {
+              "location": {
+                "lat": 49.4391097,
+                "lng": 4.0352629
+              },
+              "step_index": 3,
+              "step_interpolation": 0.9748658122362021
+            },
+            {
+              "location": {
+                "lat": 49.4139664,
+                "lng": 4.0420373
+              },
+              "step_index": 4,
+              "step_interpolation": 0.2408314999005335
+            },
+            {
+              "location": {
+                "lat": 49.4079573,
+                "lng": 4.0413245
+              },
+              "step_index": 4,
+              "step_interpolation": 0.299963005382884
+            },
+            {
+              "location": {
+                "lat": 49.3761478,
+                "lng": 4.0375961
+              },
+              "step_index": 4,
+              "step_interpolation": 0.6129964875152905
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "}ainHs`oWEOKFNrA`@vC`BxL@JFZH?d@VTLRD|@AhCQlSwAfF_@|S}AhOeA|Ly@dSyAdXqBzKq@vMgA~{@sKtAOjDc@d@O\\Ob@[hAaAt@o@`BoArFyDjGiEv@a@|@WrCi@|Cq@xBq@t@U`AOhDW~K}@hE[vAKdBKtBIrBFxCNnI`@zBNfC^zB^v@HtCRhCJjFJtEBlDEzBU|@Sj@SlEcBhBo@~Ac@nCk@xB_@xB[xBUpEW~AMdHg@jCW~@U~@e@ROh@g@`JmI`HuG`KqJrEgE||@gz@lPuOrV{UxHuH|BkB|DqCdAy@~A{AvC}CdEyDtD_DrAu@lAc@xFeBdASlKcBzBUxDO|DYdBWl@Sh@Yl@g@n@u@j@eAz@kBbAwBx@iAfAiAr@g@j@Uj@Mb@CfA@lALdDr@nIhBvKvBnG~AtAVv@HdADdFFjAA`AGj@KhCs@nCu@|@Mp@ClA?hGB`@Dh@N`@R`BbAh@NnAL`@FtCp@TDP@\\Kr@[d@Ir@F`NxBhTjD|@L|BBvAD~ARb^jGzFfAlGdAxQdD~U~DlHrAfKnBtB\\b_@pEhH|@hD^hNjBlIlAlHbAtBXnAVh@PbA\\j@NlAPvAL|DHnAFvIpAbKxAhJnAxQ~BjPpBrLzAzDd@|DTxAJxARxFx@hC\\|@BnA?pM]hXu@pTm@vW{@tTs@vGWtCKtBC``@Cx]CfMAbIApAD~BJjUfAtJj@tI`@~RbA`Lj@p\\`BvNv@tPr@`VfAr@Fl@RjEbDrPtLfTjOZTpAl@~Bv@x@b@t@j@fA`ApDnC\\ZLDT@JAJIJORm@NkAPkAVcB`@mBvAuEzCiKd@_Bz@yE^mCbAwJx@uHxAiITk@HMTOZE|G`@tnAjH|{BvMhh@~C`Jf@lHb@bJf@xLr@LDtALt@FlBHxADdNt@zJV~P~@bO|@hg@rCpm@hDxH`@z]lBJFjAHn@DTD\\PBHJNJHN?LGFK@GRGXEfBHNCd@B`BN~ANlDRhEThETJFxG^dAD`GVxFXLAtAJdBNfAH"
+      },
+      "summary": "D966",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 49.69521,
+        "lng": 4.01432,
+        "timestamp": "2015-07-25T07:15:11+00:00"
+      },
+      {
+        "lat": 49.57793,
+        "lng": 4.0546,
+        "timestamp": "2015-07-25T07:50:16+00:00"
+      },
+      {
+        "lat": 49.55715,
+        "lng": 4.05181,
+        "timestamp": "2015-07-25T07:55:17+00:00"
+      },
+      {
+        "lat": 49.54398,
+        "lng": 4.04829,
+        "timestamp": "2015-07-25T08:00:17+00:00"
+      },
+      {
+        "lat": 49.45831,
+        "lng": 4.0402,
+        "timestamp": "2015-07-25T08:25:22+00:00"
+      },
+      {
+        "lat": 49.43913,
+        "lng": 4.0352,
+        "timestamp": "2015-07-25T08:30:18+00:00"
+      },
+      {
+        "lat": 49.41401,
+        "lng": 4.04118,
+        "timestamp": "2015-07-25T08:36:58+00:00"
+      },
+      {
+        "lat": 49.40796,
+        "lng": 4.04127,
+        "timestamp": "2015-07-25T08:41:58+00:00"
+      },
+      {
+        "lat": 49.37615,
+        "lng": 4.03752,
+        "timestamp": "2015-07-25T08:50:21+00:00"
+      },
+      {
+        "lat": 49.33692,
+        "lng": 4.03316,
+        "timestamp": "2015-07-25T09:05:16+00:00"
+      }
+    ]
+  },
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 49.3369194,
+          "lng": 4.0664079
+        },
+        "southwest": {
+          "lat": 49.26431179999999,
+          "lng": 4.021897
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "11.7 km",
+            "value": 11685
+          },
+          "duration": {
+            "text": "39 mins",
+            "value": 2357
+          },
+          "end_address": "255 Avenue Jean Jaur\u00e8s, 51100 Reims, France",
+          "end_location": {
+            "lat": 49.2650484,
+            "lng": 4.0600265
+          },
+          "start_address": "D966, 51220 Brimont, France",
+          "start_location": {
+            "lat": 49.3369194,
+            "lng": 4.033172
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "2.9 km",
+                "value": 2901
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 473
+              },
+              "end_location": {
+                "lat": 49.3130167,
+                "lng": 4.0221386
+              },
+              "html_instructions": "Head <b>south</b> on <b>D966</b>",
+              "polyline": {
+                "points": "wbclHivrWF?tEVfDRlDP`Ib@|Nx@jEVrCNlBJjBHpEVhAFdDDfBFHFd@F^DLBVDXHZFn@PTHPDf@Rv@ZH?b@V\\R\\RTP\\V`@ZRNPPLJVTTRNPJJNNRVLLRV^f@X^T^^h@`@r@n@hAlBdDbAfBtAbCz@~Al@hAXf@Zj@Vb@`@r@Vb@Vb@Zh@V^\\f@d@h@TTXVNNTPNNNLNHNJLFNHTLNHJDRJ\\J\\JLDPDPBLBNBZDJ@N@P@R@X@V?VARAXATCTCVE"
+              },
+              "start_location": {
+                "lat": 49.3369194,
+                "lng": 4.033172
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "28 m",
+                "value": 28
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 49.3128592,
+                "lng": 4.021897
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "km~kHkqpWBXDLDBNB"
+              },
+              "start_location": {
+                "lat": 49.3130167,
+                "lng": 4.0221386
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.6 km",
+                "value": 1564
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 262
+              },
+              "end_location": {
+                "lat": 49.29969699999999,
+                "lng": 4.027903
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "kl~kH{opWNSVOp@Y|BiAj@e@ROfQ_QvCkBhDiAnGaAfBWlBYzDo@hBQnFy@|BWj@INCvBEp@CPBNJPPH@F?"
+              },
+              "start_location": {
+                "lat": 49.3128592,
+                "lng": 4.021897
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "15 m",
+                "value": 15
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 6
+              },
+              "end_location": {
+                "lat": 49.299725,
+                "lng": 4.0281093
+              },
+              "html_instructions": "Turn <b>left</b> at <b>Le Fond des Tourillards</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "cz{kHkuqWCi@"
+              },
+              "start_location": {
+                "lat": 49.29969699999999,
+                "lng": 4.027903
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.8 km",
+                "value": 1778
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 359
+              },
+              "end_location": {
+                "lat": 49.2841234,
+                "lng": 4.0274616
+              },
+              "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>D966</b><div style=\"font-size:0.9em\">Go through 3 roundabouts</div>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "gz{kHuvqW@?@?@A@?@A@A@A@A?A@?@A?C@A?CFGFEDEJGLEJEJEPINETGXITETENAPCLCJAVARAPEr@B|@DnFXjCNlETrCPnBJx@DdAFn@BfAF~@D~@D~@Dl@PRDRHBFDFDBF@D@FAJINKBCDABAF?H?L?L?B?B?FE|AFfEN~ADPDL@N@^@^@TBJDFBFFJJ@HDHBFBFBBDDDBFBH@B?FAFCJKHKDIDKXGLADAD?H@N?T@R@R?LCHATGJPB@B@B@TAFCBC@ADEP@FBD@F?F@J?V@N?jARN@FC\\@"
+              },
+              "start_location": {
+                "lat": 49.299725,
+                "lng": 4.0281093
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "14 m",
+                "value": 14
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 49.284111,
+                "lng": 4.0276589
+              },
+              "html_instructions": "Turn <b>left</b> toward <b>Rue de Neufch\u00e2tel</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wxxkHsrqW?Q?E?A?E@G"
+              },
+              "start_location": {
+                "lat": 49.2841234,
+                "lng": 4.0274616
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "32 m",
+                "value": 32
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 7
+              },
+              "end_location": {
+                "lat": 49.28439100000001,
+                "lng": 4.0277645
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue de Neufch\u00e2tel</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "uxxkH{sqWYCCAACAAEAGCGA"
+              },
+              "start_location": {
+                "lat": 49.284111,
+                "lng": 4.0276589
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 333
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 55
+              },
+              "end_location": {
+                "lat": 49.28501970000001,
+                "lng": 4.032227
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue Jean XXIII</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "mzxkHotqWMeC[qCSeCIsAKkAWsCAGSqBAI?G@I?C?C@I@C"
+              },
+              "start_location": {
+                "lat": 49.28439100000001,
+                "lng": 4.0277645
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "1.2 km",
+                "value": 1182
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 207
+              },
+              "end_location": {
+                "lat": 49.2746593,
+                "lng": 4.0331874
+              },
+              "html_instructions": "<b>Rue Jean XXIII</b> turns slightly <b>right</b> and becomes <b>Rue de la 12e Escadre d'Aviation</b>",
+              "polyline": {
+                "points": "k~xkHmprW@CBGDEFEDAHC`ASnASlDm@NG|AStAMT@\\Cp@Cf@B^Fh@NTHRJrAz@l@\\l@\\`@Tb@JXFXBn@?t@Gb@IZEvB_@fB_@vDo@pI}APC`@G?A"
+              },
+              "start_location": {
+                "lat": 49.28501970000001,
+                "lng": 4.032227
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 421
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 87
+              },
+              "end_location": {
+                "lat": 49.2738071,
+                "lng": 4.0384438
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue Henri Gand</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "s}vkHmvrWGwAAYAGA}@AC?e@MgC?C?CEo@?C?KAMA]Cm@?O?KBMJe@Lo@Li@rAyEZs@^q@Xc@"
+              },
+              "start_location": {
+                "lat": 49.2746593,
+                "lng": 4.0331874
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 525
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 114
+              },
+              "end_location": {
+                "lat": 49.2708733,
+                "lng": 4.043631299999999
+              },
+              "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Rue L\u00e9on Faucher</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "ixvkHgwsW@??@@@?@@?@@?@@?@@@@@?@?@@@?@?@?@A@?@?@A@A@??A@A@A@A?A@A?A?A@A?A?A?C@A?A?A?A?A?C?AAA?A?A?AAA?A?AAA?AAA?AAAt@aBb@_Ad@_AVk@r@gB`AkCfAwC|AgEL[Xk@PQTM^K"
+              },
+              "start_location": {
+                "lat": 49.2738071,
+                "lng": 4.0384438
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "85 m",
+                "value": 85
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 49.2711883,
+                "lng": 4.0446723
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue Alain Colas</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}evkHuwtWCU?UEUE]G]K]EKUg@"
+              },
+              "start_location": {
+                "lat": 49.2708733,
+                "lng": 4.043631299999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 337
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 58
+              },
+              "end_location": {
+                "lat": 49.26922640000001,
+                "lng": 4.0482108
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue Paul Bert</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}gvkHe~tWlDyH|BeFzAcD"
+              },
+              "start_location": {
+                "lat": 49.2711883,
+                "lng": 4.0446723
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 293
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 102
+              },
+              "end_location": {
+                "lat": 49.26740940000001,
+                "lng": 4.051114099999999
+              },
+              "html_instructions": "Continue onto <b>Rue du Chalet</b>",
+              "polyline": {
+                "points": "u{ukHituWj@qA`CcFLWdAsBFKp@}@\\c@PS"
+              },
+              "start_location": {
+                "lat": 49.26922640000001,
+                "lng": 4.0482108
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 220
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 49.2684825,
+                "lng": 4.0536602
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue de Bizerte</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ipukHmfvWiAsDkCiI"
+              },
+              "start_location": {
+                "lat": 49.26740940000001,
+                "lng": 4.051114099999999
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 153
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 27
+              },
+              "end_location": {
+                "lat": 49.2671771,
+                "lng": 4.05429
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue de Sfax</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_wukHkvvWh@g@\\Qb@I~Bo@VI"
+              },
+              "start_location": {
+                "lat": 49.2684825,
+                "lng": 4.0536602
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 188
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 32
+              },
+              "end_location": {
+                "lat": 49.2676698,
+                "lng": 4.056769
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Rue de B\u00f4ne</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{nukHizvWWeCi@uEOeAOmA"
+              },
+              "start_location": {
+                "lat": 49.2671771,
+                "lng": 4.05429
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 387
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 79
+              },
+              "end_location": {
+                "lat": 49.26431179999999,
+                "lng": 4.0581759
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Rue de la Maladrerie</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "}qukHyiwWv@[|Ac@hH{B~E}A"
+              },
+              "start_location": {
+                "lat": 49.2676698,
+                "lng": 4.056769
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 616
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 134
+              },
+              "end_location": {
+                "lat": 49.2670946,
+                "lng": 4.0655084
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Avenue Jean Jaur\u00e8s/N51</b><div style=\"font-size:0.9em\">Continue to follow N51</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}|tkHsrwWIWm@wBYaAMu@S_AWeAI[_@qAIOYcA}@aDACSq@_AgDYs@mAmECICIy@wCS{@"
+              },
+              "start_location": {
+                "lat": 49.26431179999999,
+                "lng": 4.0581759
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "77 m",
+                "value": 77
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 85
+              },
+              "end_location": {
+                "lat": 49.267456,
+                "lng": 4.0664079
+              },
+              "html_instructions": "Keep <b>left</b> to continue on <b>Route de Witry/N51</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "inukHm`yWKSK_@q@_C"
+              },
+              "start_location": {
+                "lat": 49.2670946,
+                "lng": 4.0655084
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 536
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 163
+              },
+              "end_location": {
+                "lat": 49.2650484,
+                "lng": 4.0600265
+              },
+              "html_instructions": "Make a <b>U-turn</b><div style=\"font-size:0.9em\">Continue to follow N51</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "uturn-left",
+              "polyline": {
+                "points": "spukHafyWp@~BJ^JRRz@x@vCBHBHlAlEP|@?BfAdEFP@Br@bCHXZdABR`@nAHXDP"
+              },
+              "start_location": {
+                "lat": 49.267456,
+                "lng": 4.0664079
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 49.28440519999999,
+                "lng": 4.0279133
+              },
+              "step_index": 7,
+              "step_interpolation": 0.03274466602212672
+            },
+            {
+              "location": {
+                "lat": 49.26719019999999,
+                "lng": 4.0657085
+              },
+              "step_index": 19,
+              "step_interpolation": 0.2355463548416576
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "wbclHivrWru@bEtNt@dDDfBFHFd@Fl@Hp@NrBh@~An@H?b@Vz@f@r@h@tAhAhAfAdAlAnBpCbGjKxEtIlBfDhBtCz@~@h@f@dAx@bAj@lAf@nAZdANnAF|AEj@GVEBXDLDBNBNSVOp@Y|BiAj@e@zQoQvCkBhDiAvJyAhHiAhBQnFy@hDa@fCIp@CPB`@\\P@Ci@B?DCJOFKLKp@YpAa@lAQdAIPEr@BlH^|QbAvFX~BJ~@Dl@Pf@NHNLDL?d@[b@AP?JEdHV~ADPD\\B~@B`@HNJLTHPRTPDJARONUDKXGRCt@Bf@@VETGJPFBX?JGFGXD`@Bf@@zATFC\\@?W?G@GYCEEGCOEMeC[qC]yEc@_FWkCB[LULGjAW|FaANG|AStAMT@nAGf@B^F~@XbEbC`@Tb@Jr@Jn@?t@G~@OhVmEr@KGyAGcBMuDGmAEkA?[j@mCrAyEZs@x@uABDDBJDJCJMBQAQEOr@cBhA_CjAsChCcHjBcFXk@PQt@YCk@Ks@S{@[s@jH_PfCuFnC{FlA_CnAaBPSiAsDkCiIh@g@\\Qb@IvCy@aBoNtC_AhOyEw@oCYaAMu@k@eCi@mBc@sA_AeDsAyEYs@mAmEGSmAsEWs@q@_Cp@~BVr@lArEFRlAlEP|@fAhEHT|@|C^xAp@zB"
+      },
+      "summary": "D966",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 49.33692,
+        "lng": 4.03316,
+        "timestamp": "2015-07-25T09:05:16+00:00"
+      },
+      {
+        "lat": 49.28442,
+        "lng": 4.02791,
+        "timestamp": "2015-07-25T09:20:17+00:00"
+      },
+      {
+        "lat": 49.2672,
+        "lng": 4.0657,
+        "timestamp": "2015-07-25T09:30:54+00:00"
+      },
+      {
+        "lat": 49.26514,
+        "lng": 4.05995,
+        "timestamp": "2015-07-25T09:35:54+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 50.0210416,
+          "lng": 3.9227016
+        },
+        "southwest": {
+          "lat": 49.99904650000001,
+          "lng": 3.919026
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "2.5 km",
+            "value": 2497
+          },
+          "duration": {
+            "text": "8 mins",
+            "value": 483
+          },
+          "end_address": "8-10 Route nationale, 02260 La Flamengrie, France",
+          "end_location": {
+            "lat": 49.99904650000001,
+            "lng": 3.919026
+          },
+          "start_address": "85 Route nationale, 02260 La Flamengrie, France",
+          "start_location": {
+            "lat": 50.0210416,
+            "lng": 3.9227016
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "2.5 km",
+                "value": 2452
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 475
+              },
+              "end_location": {
+                "lat": 49.9990884,
+                "lng": 3.9196455
+              },
+              "html_instructions": "Head <b>south</b> on <b>Route nationale/N2</b> toward <b>Chemin du Haut Roubay</b>",
+              "polyline": {
+                "points": "ovhpH{c}Vn@DfBJrFb@lKt@xM`AnCVpDVvE^zL|@L@|E\\~@FP@jCPhAHh@DjAHdBNd@D\\Bl@D|@HNDp@JNBvAZzAXp@Fh@BhA?h@?b@?l@AXBT?dCFn@DhBLj@DxBPl@FnBN"
+              },
+              "start_location": {
+                "lat": 50.0210416,
+                "lng": 3.9227016
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "45 m",
+                "value": 45
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 49.99904650000001,
+                "lng": 3.919026
+              },
+              "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "imdpHyp|VFzB"
+              },
+              "start_location": {
+                "lat": 49.9990884,
+                "lng": 3.9196455
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 50.01052550000001,
+                "lng": 3.9212272
+              },
+              "step_index": 0,
+              "step_interpolation": 0.4787890132825133
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "ovhpH{c}VvCP`SxAr^pCfVdBpGb@tFb@jBN`APfB^zAXp@FrBBlA?fA@zCF~Hj@|CVFzB"
+      },
+      "summary": "Route nationale/N2",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 50.02105,
+        "lng": 3.92255,
+        "timestamp": "2015-07-25T10:07:27+00:00"
+      },
+      {
+        "lat": 50.01053,
+        "lng": 3.92115,
+        "timestamp": "2015-07-25T10:12:28+00:00"
+      },
+      {
+        "lat": 49.9989,
+        "lng": 3.91905,
+        "timestamp": "2015-07-25T10:17:39+00:00"
+      }
+    ]
+  }
+]

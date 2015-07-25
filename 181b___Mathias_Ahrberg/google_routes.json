@@ -1,0 +1,109 @@
+[
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 49.51569199999999,
+          "lng": 4.363756599999999
+        },
+        "southwest": {
+          "lat": 49.5109146,
+          "lng": 4.3543521
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "0.9 km",
+            "value": 945
+          },
+          "duration": {
+            "text": "2 mins",
+            "value": 140
+          },
+          "end_address": "4 Place Hourtoule, 08300 Rethel, France",
+          "end_location": {
+            "lat": 49.5109146,
+            "lng": 4.3635117
+          },
+          "start_address": "22B Rue de la Lib\u00e9ration, 08300 Rethel, France",
+          "start_location": {
+            "lat": 49.51569199999999,
+            "lng": 4.3543521
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 924
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 137
+              },
+              "end_location": {
+                "lat": 49.5110075,
+                "lng": 4.363756599999999
+              },
+              "html_instructions": "Head <b>east</b> on <b>Rue de la Lib\u00e9ration/D946</b> toward <b>La-C\u00f4t\u00e9-de-Hottin</b><div style=\"font-size:0.9em\">Continue to follow D946</div>",
+              "polyline": {
+                "points": "a`fmHumqYNeANwAPyBHiAFo@`@oE`@}ETmCJwAD_@N}@DMDMJUHMJOLONQXY|AyAp@s@pAwAxAeBPQvAeAbAs@n@e@HG^Yd@YVO"
+              },
+              "start_location": {
+                "lat": 49.51569199999999,
+                "lng": 4.3543521
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "21 m",
+                "value": 21
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 3
+              },
+              "end_location": {
+                "lat": 49.5109146,
+                "lng": 4.3635117
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Place Hourtoule</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ybemHohsYHZHT"
+              },
+              "start_location": {
+                "lat": 49.5110075,
+                "lng": 4.363756599999999
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "a`fmHumqY^}CZcE`BkRPwBTkAPc@T]tCuCbCkCjBwBtEgDdAs@VOHZHT"
+      },
+      "summary": "D946",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 49.51567,
+        "lng": 4.35434,
+        "timestamp": "2015-07-25T08:30:38+00:00"
+      },
+      {
+        "lat": 49.51082,
+        "lng": 4.36361,
+        "timestamp": "2015-07-25T08:36:13+00:00"
+      }
+    ]
+  }
+]

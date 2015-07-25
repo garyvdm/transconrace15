@@ -1,0 +1,237 @@
+[
+  {
+    "route": {
+      "bounds": {
+        "northeast": {
+          "lat": 50.1178901,
+          "lng": 3.6939389
+        },
+        "southwest": {
+          "lat": 49.9865871,
+          "lng": 3.6543761
+        }
+      },
+      "copyrights": "Map data \u00a92015 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "15.3 km",
+            "value": 15256
+          },
+          "duration": {
+            "text": "46 mins",
+            "value": 2750
+          },
+          "end_address": "17-85 R\u00e9sidence de l'Argentaise, 02510 \u00c9treux, France",
+          "end_location": {
+            "lat": 49.9865871,
+            "lng": 3.6543761
+          },
+          "start_address": "11 Route de Guise, 59550 Landrecies, France",
+          "start_location": {
+            "lat": 50.1178901,
+            "lng": 3.6939389
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "7.4 km",
+                "value": 7412
+              },
+              "duration": {
+                "text": "23 mins",
+                "value": 1370
+              },
+              "end_location": {
+                "lat": 50.0553045,
+                "lng": 3.6699409
+              },
+              "html_instructions": "Head <b>south</b> on <b>Route de Guise/D934</b> toward <b>Chemin de Raz\u00e9</b><div style=\"font-size:0.9em\">Continue to follow D934</div>",
+              "polyline": {
+                "points": "ys{pHcnpUnLbAbVrBzCTxAL|ALlBPzCXbDV~CVVBnE\\H@H@zJz@r@FbE\\nIt@tE`@dCPzALpE`@~BRl@D\\@P@JAXC`@G`@Ih@ObA[rLiDxEuAjA]PCPANAJ?J?`@@h@DjCPlDRjDTnG^ZBlAHfAFP@PDZFVHZJTJrHbDp@ZxErBdIlDlD|ArEpBv@^RJPJLJLLLPPXR\\R^Xj@\\p@jBjDDHTd@r@rAHNFLbCnEnA~B`ErHJLT\\zFjGlExEvEdFl@n@bDnDnArApCzCf@h@^^RPPLNJNFLDXD^D`@BbAHH@J@r@DzAJbCT`BTvARvARr@Lf@J~@XpAf@hE~ApAf@jFjBnSvH~@ZnNdF"
+              },
+              "start_location": {
+                "lat": 50.1178901,
+                "lng": 3.6939389
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "7.8 km",
+                "value": 7836
+              },
+              "duration": {
+                "text": "23 mins",
+                "value": 1379
+              },
+              "end_location": {
+                "lat": 49.9865941,
+                "lng": 3.654494499999999
+              },
+              "html_instructions": "Continue onto <b>D946</b>",
+              "polyline": {
+                "points": "slopHcxkUFBFBr@VzAl@pBt@d@NbC~@dBl@rAd@fDpAbC|@fA`@bDjAdNbFrG|Bd@RjBp@lHlCHBHDlG|BnGzBRHtAf@ZL`Bl@THVJHDHBTHFBFBLB^NnAd@THvEfB|JnDhCz@v@Th@Nh@Hp@Lt@J\\Dj@Fl@Dr@Df@Bd@@d@@p@?b@Ab@A`@Ab@Cb@E`@GdC[bAQrAWlB]pJ_BrQ{ChCa@fAQdAM~BQpAGdGD\\@T@|BT~C^`@Fr@FbD^x[nD|PlB`VjCfLpAdD^`BRbALfGn@`Fj@`Hx@t@J`ALrANd@FrARZFPFd@`@?B@@?B?@?@@@?@@@?@@@?@@@?@@?@@?@@?@??@@?@?@?@?@?@?@A@?@A@A?A@?@A?A@A?A?A@Ab@INHxA`@~Af@h@LZJbA\\LFPJRLPLRRz@z@hBpBrArAJJDBF@F@P?NAv@CN?dACr@CH?F?FAp@?^AlACx@Ad@A\\?^@bAF\\Bx@Hb@F~@Nh@DpF\\"
+              },
+              "start_location": {
+                "lat": 50.0553045,
+                "lng": 3.6699409
+              },
+              "travel_mode": "BICYCLING"
+            },
+            {
+              "distance": {
+                "text": "8 m",
+                "value": 8
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 49.9865871,
+                "lng": 3.6543761
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>R\u00e9sidence de l'Argentaise</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "e_bpHqwhU?T"
+              },
+              "start_location": {
+                "lat": 49.9865941,
+                "lng": 3.654494499999999
+              },
+              "travel_mode": "BICYCLING"
+            }
+          ],
+          "via_waypoint": [
+            {
+              "location": {
+                "lat": 50.1145094,
+                "lng": 3.6934091
+              },
+              "step_index": 0,
+              "step_interpolation": 0.05097071865716929
+            },
+            {
+              "location": {
+                "lat": 50.09930989999999,
+                "lng": 3.6910617
+              },
+              "step_index": 0,
+              "step_interpolation": 0.2801059745540707
+            },
+            {
+              "location": {
+                "lat": 50.0851152,
+                "lng": 3.691146499999999
+              },
+              "step_index": 0,
+              "step_interpolation": 0.4966469491529094
+            },
+            {
+              "location": {
+                "lat": 50.0705436,
+                "lng": 3.676787899999999
+              },
+              "step_index": 0,
+              "step_interpolation": 0.759993670636125
+            },
+            {
+              "location": {
+                "lat": 50.0533349,
+                "lng": 3.669005799999999
+              },
+              "step_index": 1,
+              "step_interpolation": 0.02921969452218467
+            },
+            {
+              "location": {
+                "lat": 50.036046,
+                "lng": 3.6609111
+              },
+              "step_index": 1,
+              "step_interpolation": 0.2854122056432258
+            },
+            {
+              "location": {
+                "lat": 50.0218395,
+                "lng": 3.6619615
+              },
+              "step_index": 1,
+              "step_interpolation": 0.4899523375777238
+            },
+            {
+              "location": {
+                "lat": 50.0030401,
+                "lng": 3.658789
+              },
+              "step_index": 1,
+              "step_interpolation": 0.75852367739683
+            }
+          ]
+        }
+      ],
+      "overview_polyline": {
+        "points": "ys{pHcnpUrc@vDtFb@jOpAn_@~CfWvB|K|@\\?z@KjAYvNeEdHsBb@EhA?tDVxIh@`Mt@b@Fr@Pp@VdJ~D`\\pNjAj@^VZ^d@v@vDhHxArC|KpS`@j@hMdNxNxOxDdEr@p@`@X\\Lx@JdBLdDTdFj@nDf@zAXpC`AzGfCzZbL~PhGlWpJhp@`VxWpJtBt@|IfDfOjF`Bd@nDh@xALzAH`D@lCMfDc@vCi@~M}B|U}DlC_@pEYbHFrCVxKnA`rAzNfGr@jI|@zR~BxBVnBZPFd@`@@D@HBFHHF@HCFMd@KhBj@hCt@~Ah@dAn@nAnA|DdEPNNBhBEjCGfDG~AC|@@`BJ|APhBTpF\\?T"
+      },
+      "summary": "D934 and D946",
+      "warnings": [
+        "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+      ],
+      "waypoint_order": []
+    },
+    "waypoints": [
+      {
+        "lat": 50.11789,
+        "lng": 3.69394,
+        "timestamp": "2015-07-25T02:35:56+00:00"
+      },
+      {
+        "lat": 50.11451,
+        "lng": 3.6934,
+        "timestamp": "2015-07-25T02:37:07+00:00"
+      },
+      {
+        "lat": 50.09931,
+        "lng": 3.69106,
+        "timestamp": "2015-07-25T02:42:08+00:00"
+      },
+      {
+        "lat": 50.08511,
+        "lng": 3.69117,
+        "timestamp": "2015-07-25T02:47:12+00:00"
+      },
+      {
+        "lat": 50.07056,
+        "lng": 3.67675,
+        "timestamp": "2015-07-25T02:52:12+00:00"
+      },
+      {
+        "lat": 50.05334,
+        "lng": 3.66898,
+        "timestamp": "2015-07-25T02:57:07+00:00"
+      },
+      {
+        "lat": 50.03605,
+        "lng": 3.66089,
+        "timestamp": "2015-07-25T03:02:07+00:00"
+      },
+      {
+        "lat": 50.02184,
+        "lng": 3.66197,
+        "timestamp": "2015-07-25T03:07:08+00:00"
+      },
+      {
+        "lat": 50.00304,
+        "lng": 3.65879,
+        "timestamp": "2015-07-25T03:12:33+00:00"
+      },
+      {
+        "lat": 49.98663,
+        "lng": 3.65437,
+        "timestamp": "2015-07-25T03:17:07+00:00"
+      }
+    ]
+  }
+]
